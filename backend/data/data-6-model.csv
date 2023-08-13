@@ -1,368 +1,628 @@
-grade,subject,lesson,class_interests,class_average_mark,teaching_aid_category,teaching_aid,how_to_use,time
-6,Mathematics,Multiplication,Art,50,Visual,Math Models,Create visual models to understand multiplication concepts,20
-6,Mathematics,Circles,Travelling,73,Kinesthetic,Math Trail,Go on a math trail to explore circle properties in the school environment,30
-6,Mathematics,Circles,Technology,85,Digital,Interactive Software,Use interactive software to visualize and manipulate circle properties,25
-6,Mathematics,Circles,Games,30,Kinesthetic,Team Quiz,Organize a quiz game where students answer circle-related questions in teams,45
-6,Mathematics,Positional Value,Games,53,Kinesthetic,Number Relay,Participate in a relay race that requires arranging numbers in ascending or descending order,50
-6,Mathematics,Circles,Travelling,71,Kinesthetic,Math Trail,Go on a math trail to explore circle properties in the school environment,30
-6,Mathematics,Positional Value,Games,69,Visual,Number Line Game,Play a game that involves plotting numbers on a number line based on their value,35
-6,Mathematics,Circles,Art,31,Visual,Circle Collage,Create a collage using cutouts of circles from magazines and newspapers,45
-6,Mathematics,Circles,Art,75,Visual,Art Project,Have students draw and color artistic representations of circles with different radii,40
-6,Mathematics,Multiplication,Science,49,Audio,Podcast,Listen to math podcasts explaining multiplication concepts,25
-6,Mathematics,Subtraction,Videos,41,Audio Visual,Explainer Video,Watch an animated video explaining subtraction,15
-6,Mathematics,Positional Value,Games,46,Kinesthetic,Number Swap,Physically swap digits in numbers to understand the effect on their value,30
-6,Mathematics,Addition,Music,65,Audio,Math Song,Listen to a math song that helps with addition concepts,5
-6,Mathematics,Division,Music,43,Audio Visual,Online Tutorials,Watch online tutorials with visual aids to understand division,30
-6,Mathematics,Circles,Art,59,Visual,Pattern Creation,Create symmetrical patterns with circles as the central motif,20
-6,Mathematics,Subtraction,Games,38,Kinesthetic,Manipulatives,Provide students with counters to physically represent subtraction problems,30
-6,Mathematics,Circles,Games,75,Kinesthetic,Shape Hunt,Conduct a shape hunt activity where students find circles and other shapes in their environment,45
-6,Mathematics,Circles,Art,89,Visual,Geometry Poster,Create a colorful poster summarizing key circle concepts and terms,20
-6,Mathematics,Positional Value,Art,67,Visual,Number Patterns,"Create artistic patterns using numbers, highlighting their positional value",45
-6,Mathematics,Positional Value,Games,38,Kinesthetic,Number Hunt,Search for and identify numbers with specific positional values in the classroom,30
-6,Mathematics,Addition,Games,41,Visual,Flashcards,Display flashcards with addition problems and solutions on the board,15
-6,Mathematics,Subtraction,Videos,49,Audio Visual,Math Explorations,Explore subtraction concepts through engaging videos,20
-6,Mathematics,Positional Value,Technology,88,Digital,Interactive Smartboard Games,Play interactive games on the smartboard to practice positional value concepts,35
-6,Mathematics,Subtraction,Videos,48,Audio Visual,Math Explorations,Explore subtraction concepts through engaging videos,20
-6,Mathematics,Addition,Games,52,Visual,Whiteboard,Use the whiteboard to illustrate addition problems,10
-6,Mathematics,Positional Value,Art,37,Visual,Number Collage,"Create a collage of numbers, highlighting their positional value in various contexts",45
-6,Mathematics,Division,Art,80,Visual,DIY Posters,Design and create division posters as a group activity,20
-6,Mathematics,Circles,Art,58,Visual,Pattern Creation,Create symmetrical patterns with circles as the central motif,20
-6,Mathematics,Positional Value,Videos,55,Audio Visual,Explainer Video,Watch an animated video explaining the role of positional value in number systems,40
-6,Mathematics,Positional Value,Art,85,Visual,Number Origami,Create origami figures representing numbers and their place values,20
-6,Mathematics,Circles,Videos,84,Audio Visual,Math Video,Play a math video explaining properties and formulas related to circles,25
-6,Mathematics,Multiplication,Games,76,Kinesthetic,Group Activities,Engage students in group activities to practice multiplication,45
-6,Mathematics,Circles,Art,73,Visual,Art Project,Have students draw and color artistic representations of circles with different radii,40
-6,Mathematics,Positional Value,Technology,83,Digital,Number Patterns Software,Use software to explore and analyze patterns in numbers based on positional value,35
-6,Mathematics,Circles,Art,83,Kinesthetic,Circle Construction,Let students use compasses and rulers to construct circles of specific radii,30
-6,Mathematics,Circles,Technology,85,Digital,Online Quizzes,Participate in online quizzes that test circle knowledge,40
-6,Mathematics,Division,Games,91,Kinesthetic,Division Relay,Compete in a division relay race to reinforce concepts,45
-6,Mathematics,Positional Value,Videos,77,Audio Visual,Math Visualization,Watch visualizations of large numbers and their positional value representation,40
-6,Mathematics,Circles,Games,86,Visual,Puzzles,Provide circle puzzles for students to solve and understand circle properties,20
-6,Mathematics,Subtraction,Art,67,Visual,Posters,Hang subtraction posters around the classroom for reference,10
-6,Mathematics,Circles,Science,66,Visual,DIY Compass,Have students create their compasses to draw circles with different diameters,15
-6,Mathematics,Positional Value,Games,88,Kinesthetic,Math Riddles,Solve math riddles related to positional value and number patterns,50
-6,Mathematics,Positional Value,Travelling,55,Kinesthetic,Number Line Walk,Create a human number line in the classroom and position students based on numbers,30
-6,Mathematics,Addition,Games,40,Visual,Flashcards,Display flashcards with addition problems and solutions on the board,15
-6,Mathematics,Circles,Technology,87,Digital,Online Quizzes,Participate in online quizzes that test circle knowledge,40
-6,Mathematics,Circles,Art,62,Visual,Design Mandalas,Guide students to design mandalas with concentric circles,60
-6,Mathematics,Positional Value,Games,45,Audio Visual,Number Sorting Activity,Sort and arrange number cards based on their positional value,60
-6,Mathematics,Circles,Games,84,Visual,Puzzles,Provide circle puzzles for students to solve and understand circle properties,20
-6,Mathematics,Positional Value,Technology,82,Digital,Number Patterns Software,Use software to explore and analyze patterns in numbers based on positional value,35
-6,Mathematics,Circles,Science,65,Visual,DIY Compass,Have students create their compasses to draw circles with different diameters,15
-6,Mathematics,Positional Value,Games,66,Visual,Number Line Game,Play a game that involves plotting numbers on a number line based on their value,35
-6,Mathematics,Positional Value,Videos,52,Audio Visual,Explainer Video,Watch an animated video explaining the role of positional value in number systems,40
-6,Mathematics,Positional Value,Games,50,Kinesthetic,Number Relay,Participate in a relay race that requires arranging numbers in ascending or descending order,50
-6,Mathematics,Positional Value,Games,86,Kinesthetic,Math Riddles,Solve math riddles related to positional value and number patterns,50
-6,Mathematics,Subtraction,Art,62,Visual,Posters,Hang subtraction posters around the classroom for reference,10
-6,Mathematics,Multiplication,Science,48,Audio,Podcast,Listen to math podcasts explaining multiplication concepts,25
-6,Mathematics,Positional Value,Games,62,Visual,Place Value Bingo,Play bingo games to identify numbers and their place values,35
-6,Mathematics,Circles,Games,91,Visual,Puzzle Solving,Solve circle puzzles with varying levels of difficulty,30
-6,Mathematics,Addition,Games,43,Visual,Flashcards,Display flashcards with addition problems and solutions on the board,15
-6,Mathematics,Circles,Travelling,70,Kinesthetic,Math Trail,Go on a math trail to explore circle properties in the school environment,30
-6,Mathematics,Positional Value,Games,82,Kinesthetic,Math Escape Room,Solve positional value puzzles to escape from a math-themed escape room,50
-6,Mathematics,Circles,Games,55,Kinesthetic,Memory Game,Play a memory game with cards containing circle properties and terms,15
-6,Mathematics,Addition,Videos,50,Audio Visual,Math Video,Play math video explaining addition concepts,20
-6,Mathematics,Circles,Videos,71,Audio Visual,Explainer Video,Watch an animated video explaining circle measurements and theorems,30
-6,Mathematics,Multiplication,Art,55,Visual,Math Models,Create visual models to understand multiplication concepts,20
-6,Mathematics,Positional Value,Videos,62,Audio Visual,Math Animation,Watch animated visualizations of how positional value affects number magnitudes,40
-6,Mathematics,Positional Value,Videos,65,Audio Visual,Math Animation,Watch animated visualizations of how positional value affects number magnitudes,40
-6,Mathematics,Positional Value,Technology,86,Digital,Interactive Smartboard Games,Play interactive games on the smartboard to practice positional value concepts,35
-6,Mathematics,Addition,Games,53,Visual,Whiteboard,Use the whiteboard to illustrate addition problems,10
-6,Mathematics,Positional Value,Games,64,Visual,Place Value Bingo,Play bingo games to identify numbers and their place values,35
-6,Mathematics,Addition,Videos,71,Audio Visual,Interactive Tutorial,Interact with an online tutorial that provides addition practice,30
-6,Mathematics,Subtraction,Videos,43,Audio Visual,Explainer Video,Watch an animated video explaining subtraction,15
-6,Mathematics,Circles,Art,87,Visual,Geometry Poster,Create a colorful poster summarizing key circle concepts and terms,20
-6,Mathematics,Circles,Art,60,Visual,Design Mandalas,Guide students to design mandalas with concentric circles,60
-6,Mathematics,Circles,Games,70,Visual,Geometric Shapes Kit,Provide students with a kit containing circle templates and other geometric shapes for hands-on activities,30
-6,Mathematics,Addition,Music,63,Audio,Math Song,Listen to a math song that helps with addition concepts,5
-6,Mathematics,Positional Value,Art,77,Visual,Number Dioramas,Create dioramas featuring numbers and their place values,45
-6,Mathematics,Positional Value,Games,45,Kinesthetic,Number Swap,Physically swap digits in numbers to understand the effect on their value,30
-6,Mathematics,Positional Value,Art,46,Visual,Place Value Art Project,Create art projects showcasing the positional value of digits in large numbers,45
-6,Mathematics,Subtraction,Art,67,Visual,Posters,Hang subtraction posters around the classroom for reference,10
-6,Mathematics,Positional Value,Technology,87,Digital,Interactive Smartboard Games,Play interactive games on the smartboard to practice positional value concepts,35
-6,Mathematics,Subtraction,Games,39,Kinesthetic,Manipulatives,Provide students with counters to physically represent subtraction problems,30
-6,Mathematics,Multiplication,Art,52,Visual,Math Models,Create visual models to understand multiplication concepts,20
-6,Mathematics,Circles,Games,54,Kinesthetic,Memory Game,Play a memory game with cards containing circle properties and terms,15
-6,Mathematics,Positional Value,Technology,84,Digital,Number Patterns Software,Use software to explore and analyze patterns in numbers based on positional value,35
-6,Mathematics,Circles,Travelling,79,Audio Visual,Outdoor Activity,Take students outside to identify and measure real-life circles in their surroundings,60
-6,Mathematics,Positional Value,Art,57,Visual,Number Sculptures,Design sculptures representing numbers and their positional values,20
-6,Mathematics,Positional Value,Art,75,Visual,Number Dioramas,Create dioramas featuring numbers and their place values,45
-6,Mathematics,Positional Value,Videos,50,Audio Visual,Explainer Video,Watch an animated video explaining the role of positional value in number systems,40
-6,Mathematics,Circles,Art,88,Visual,Geometry Poster,Create a colorful poster summarizing key circle concepts and terms,20
-6,Mathematics,Subtraction,Art,66,Visual,Posters,Hang subtraction posters around the classroom for reference,10
-6,Mathematics,Circles,Games,43,Kinesthetic,Relay Race,Organize a relay race with circle-related challenges,60
-6,Mathematics,Multiplication,Art,72,Visual,Math Puzzles,Solve math puzzles related to multiplication,25
-6,Mathematics,Positional Value,Games,37,Kinesthetic,Number Hunt,Search for and identify numbers with specific positional values in the classroom,30
-6,Mathematics,Circles,Technology,89,Digital,Online Quizzes,Participate in online quizzes that test circle knowledge,40
-6,Mathematics,Circles,Art,70,Visual,Art Project,Have students draw and color artistic representations of circles with different radii,40
-6,Mathematics,Circles,Games,95,Visual,Puzzle Solving,Solve circle puzzles with varying levels of difficulty,30
-6,Mathematics,Addition,Games,44,Visual,Flashcards,Display flashcards with addition problems and solutions on the board,15
-6,Mathematics,Circles,Games,32,Kinesthetic,Team Quiz,Organize a quiz game where students answer circle-related questions in teams,45
-6,Mathematics,Division,Art,82,Visual,DIY Posters,Design and create division posters as a group activity,20
-6,Mathematics,Circles,Videos,68,Audio Visual,Real-life Examples,Watch videos showing the application of circle properties in everyday life,25
-6,Mathematics,Positional Value,Technology,90,Digital,Interactive Smartboard Games,Play interactive games on the smartboard to practice positional value concepts,35
-6,Mathematics,Circles,Art,55,Visual,Pattern Creation,Create symmetrical patterns with circles as the central motif,20
-6,Mathematics,Subtraction,Art,68,Visual,Posters,Hang subtraction posters around the classroom for reference,10
-6,Mathematics,Circles,Games,92,Visual,Puzzle Solving,Solve circle puzzles with varying levels of difficulty,30
-6,Mathematics,Circles,Videos,65,Audio Visual,Real-life Examples,Watch videos showing the application of circle properties in everyday life,25
-6,Mathematics,Circles,Art,79,Visual,Geometric Origami,"Create origami shapes, including circles, using geometric folding techniques",20
-6,Mathematics,Positional Value,Games,90,Kinesthetic,Math Riddles,Solve math riddles related to positional value and number patterns,50
-6,Mathematics,Positional Value,Games,47,Kinesthetic,Number Swap,Physically swap digits in numbers to understand the effect on their value,30
-6,Mathematics,Positional Value,Games,83,Kinesthetic,Math Escape Room,Solve positional value puzzles to escape from a math-themed escape room,50
-6,Mathematics,Circles,Technology,81,Digital,Interactive Software,Use interactive software to visualize and manipulate circle properties,25
-6,Mathematics,Subtraction,Art,63,Visual,Posters,Hang subtraction posters around the classroom for reference,10
-6,Mathematics,Positional Value,Art,83,Visual,Number Origami,Create origami figures representing numbers and their place values,20
-6,Mathematics,Addition,Videos,75,Audio Visual,Interactive Tutorial,Interact with an online tutorial that provides addition practice,30
-6,Mathematics,Positional Value,Games,81,Kinesthetic,Math Escape Room,Solve positional value puzzles to escape from a math-themed escape room,50
-6,Mathematics,Addition,Videos,51,Audio Visual,Math Video,Play math video explaining addition concepts,20
-6,Mathematics,Positional Value,Travelling,56,Kinesthetic,Number Line Walk,Create a human number line in the classroom and position students based on numbers,30
-6,Mathematics,Addition,Videos,72,Audio Visual,Interactive Tutorial,Interact with an online tutorial that provides addition practice,30
-6,Mathematics,Subtraction,Games,39,Kinesthetic,Manipulatives,Provide students with counters to physically represent subtraction problems,30
-6,Mathematics,Positional Value,Art,31,Visual,Digit Collage,Create a collage using cutouts of digits and arrange them based on their positional value,20
-6,Mathematics,Division,Art,85,Visual,DIY Posters,Design and create division posters as a group activity,20
-6,Mathematics,Positional Value,Videos,75,Audio Visual,Math Visualization,Watch visualizations of large numbers and their positional value representation,40
-6,Mathematics,Addition,Games,55,Visual,Whiteboard,Use the whiteboard to illustrate addition problems,10
-6,Mathematics,Positional Value,Videos,70,Audio Visual,Math Video,Play a math video explaining the concept of positional value in numbers,25
-6,Mathematics,Division,Games,93,Kinesthetic,Division Relay,Compete in a division relay race to reinforce concepts,45
-6,Mathematics,Multiplication,Science,48,Audio,Podcast,Listen to math podcasts explaining multiplication concepts,25
-6,Mathematics,Multiplication,Games,78,Kinesthetic,Group Activities,Engage students in group activities to practice multiplication,45
-6,Mathematics,Positional Value,Art,39,Visual,Number Collage,"Create a collage of numbers, highlighting their positional value in various contexts",45
-6,Mathematics,Circles,Art,76,Visual,Geometric Origami,"Create origami shapes, including circles, using geometric folding techniques",20
-6,Mathematics,Positional Value,Travelling,60,Kinesthetic,Number Line Walk,Create a human number line in the classroom and position students based on numbers,30
-6,Mathematics,Addition,Videos,55,Audio Visual,Math Video,Play math video explaining addition concepts,20
-6,Mathematics,Positional Value,Games,57,Kinesthetic,Number Comparison Race,Engage in a racing game that involves comparing numbers based on positional value,50
-6,Mathematics,Division,Games,72,Kinesthetic,Math Game,Play a fun math game to practice division,30
-6,Mathematics,Positional Value,Videos,61,Audio Visual,Math Animation,Watch animated visualizations of how positional value affects number magnitudes,40
-6,Mathematics,Positional Value,Technology,81,Digital,Number Patterns Software,Use software to explore and analyze patterns in numbers based on positional value,35
-6,Mathematics,Subtraction,Art,63,Visual,Posters,Hang subtraction posters around the classroom for reference,10
-6,Mathematics,Circles,Games,41,Kinesthetic,Relay Race,Organize a relay race with circle-related challenges,60
-6,Mathematics,Positional Value,Art,55,Visual,Number Sculptures,Design sculptures representing numbers and their positional values,20
-6,Mathematics,Positional Value,Games,33,Kinesthetic,Human Place Value Chart,Create a human place value chart with students acting as digits to represent numbers,30
-6,Mathematics,Positional Value,Art,34,Visual,Digit Collage,Create a collage using cutouts of digits and arrange them based on their positional value,20
-6,Mathematics,Circles,Games,40,Kinesthetic,Relay Race,Organize a relay race with circle-related challenges,60
-6,Mathematics,Circles,Art,63,Visual,Design Mandalas,Guide students to design mandalas with concentric circles,60
-6,Mathematics,Subtraction,Videos,42,Audio Visual,Explainer Video,Watch an animated video explaining subtraction,15
-6,Mathematics,Division,Games,71,Kinesthetic,Math Game,Play a fun math game to practice division,30
-6,Mathematics,Positional Value,Games,68,Visual,Number Line Game,Play a game that involves plotting numbers on a number line based on their value,35
-6,Mathematics,Circles,Games,85,Visual,Puzzles,Provide circle puzzles for students to solve and understand circle properties,20
-6,Mathematics,Positional Value,Art,36,Visual,Number Collage,"Create a collage of numbers, highlighting their positional value in various contexts",45
-6,Mathematics,Addition,Games,50,Visual,Whiteboard,Use the whiteboard to illustrate addition problems,10
-6,Mathematics,Subtraction,Videos,44,Audio Visual,Explainer Video,Watch an animated video explaining subtraction,15
-6,Mathematics,Positional Value,Videos,75,Audio Visual,Math Video,Play a math video explaining the concept of positional value in numbers,25
-6,Mathematics,Positional Value,Games,34,Kinesthetic,Human Place Value Chart,Create a human place value chart with students acting as digits to represent numbers,30
-6,Mathematics,Circles,Games,77,Kinesthetic,Shape Hunt,Conduct a shape hunt activity where students find circles and other shapes in their environment,45
-6,Mathematics,Division,Games,80,Visual,Charts,Show division charts with step-by-step solutions,15
-6,Mathematics,Positional Value,Games,81,Kinesthetic,Math Escape Room,Solve positional value puzzles to escape from a math-themed escape room,50
-6,Mathematics,Circles,Games,53,Kinesthetic,Memory Game,Play a memory game with cards containing circle properties and terms,15
-6,Mathematics,Circles,Games,52,Kinesthetic,Memory Game,Play a memory game with cards containing circle properties and terms,15
-6,Mathematics,Addition,Games,42,Visual,Flashcards,Display flashcards with addition problems and solutions on the board,15
-6,Mathematics,Circles,Music,85,Audio,Math Song,Listen to a catchy song that covers circle concepts and terminology,10
-6,Mathematics,Circles,Videos,66,Audio Visual,Real-life Examples,Watch videos showing the application of circle properties in everyday life,25
-6,Mathematics,Division,Art,63,Visual,Division Drawings,Illustrate division problems through creative drawings,10
-6,Mathematics,Circles,Travelling,78,Audio Visual,Outdoor Activity,Take students outside to identify and measure real-life circles in their surroundings,60
-6,Mathematics,Circles,Travelling,75,Kinesthetic,Math Trail,Go on a math trail to explore circle properties in the school environment,30
-6,Mathematics,Division,Art,65,Visual,Division Drawings,Illustrate division problems through creative drawings,10
-6,Mathematics,Positional Value,Games,31,Kinesthetic,Human Place Value Chart,Create a human place value chart with students acting as digits to represent numbers,30
-6,Mathematics,Multiplication,Science,51,Audio,Podcast,Listen to math podcasts explaining multiplication concepts,25
-6,Mathematics,Positional Value,Technology,80,Digital,Number Patterns Software,Use software to explore and analyze patterns in numbers based on positional value,35
-6,Mathematics,Circles,Games,73,Visual,Geometric Shapes Kit,Provide students with a kit containing circle templates and other geometric shapes for hands-on activities,30
-6,Mathematics,Positional Value,Videos,76,Audio Visual,Math Visualization,Watch visualizations of large numbers and their positional value representation,40
-6,Mathematics,Positional Value,Games,85,Kinesthetic,Math Riddles,Solve math riddles related to positional value and number patterns,50
-6,Mathematics,Circles,Games,88,Visual,Shape Sorting,Sort 2D shapes and identify circles based on specific criteria,30
-6,Mathematics,Circles,Games,45,Visual,Math Board Game,Play a math board game that involves circle-related questions and challenges,40
-6,Mathematics,Circles,Games,79,Kinesthetic,Shape Hunt,Conduct a shape hunt activity where students find circles and other shapes in their environment,45
-6,Mathematics,Addition,Games,54,Visual,Number Line,Use a number line to solve addition problems,15
-6,Mathematics,Positional Value,Games,65,Visual,Place Value Bingo,Play bingo games to identify numbers and their place values,35
-6,Mathematics,Addition,Games,54,Visual,Whiteboard,Use the whiteboard to illustrate addition problems,10
-6,Mathematics,Positional Value,Games,36,Kinesthetic,Number Hunt,Search for and identify numbers with specific positional values in the classroom,30
-6,Mathematics,Multiplication,Games,74,Kinesthetic,Group Activities,Engage students in group activities to practice multiplication,45
-6,Mathematics,Multiplication,Science,49,Audio,Podcast,Listen to math podcasts explaining multiplication concepts,25
-6,Mathematics,Positional Value,Art,45,Visual,Place Value Art Project,Create art projects showcasing the positional value of digits in large numbers,45
-6,Mathematics,Positional Value,Art,81,Visual,Number Origami,Create origami figures representing numbers and their place values,20
-6,Mathematics,Circles,Games,81,Visual,Puzzles,Provide circle puzzles for students to solve and understand circle properties,20
-6,Mathematics,Circles,Games,72,Visual,Geometric Shapes Kit,Provide students with a kit containing circle templates and other geometric shapes for hands-on activities,30
-6,Mathematics,Positional Value,Games,63,Visual,Place Value Bingo,Play bingo games to identify numbers and their place values,35
-6,Mathematics,Division,Art,87,Visual,DIY Posters,Design and create division posters as a group activity,20
-6,Mathematics,Circles,Games,47,Visual,Math Board Game,Play a math board game that involves circle-related questions and challenges,40
-6,Mathematics,Circles,Art,71,Visual,Art Project,Have students draw and color artistic representations of circles with different radii,40
-6,Mathematics,Circles,Art,57,Visual,Pattern Creation,Create symmetrical patterns with circles as the central motif,20
-6,Mathematics,Circles,Art,85,Visual,Geometry Poster,Create a colorful poster summarizing key circle concepts and terms,20
-6,Mathematics,Positional Value,Art,50,Visual,Place Value Art Project,Create art projects showcasing the positional value of digits in large numbers,45
-6,Mathematics,Circles,Art,72,Visual,Art Project,Have students draw and color artistic representations of circles with different radii,40
-6,Mathematics,Positional Value,Art,30,Visual,Digit Collage,Create a collage using cutouts of digits and arrange them based on their positional value,20
-6,Mathematics,Positional Value,Games,35,Kinesthetic,Number Hunt,Search for and identify numbers with specific positional values in the classroom,30
-6,Mathematics,Circles,Videos,81,Audio Visual,Math Video,Play a math video explaining properties and formulas related to circles,25
-6,Mathematics,Positional Value,Art,47,Visual,Place Value Art Project,Create art projects showcasing the positional value of digits in large numbers,45
-6,Mathematics,Division,Art,83,Visual,DIY Posters,Design and create division posters as a group activity,20
-6,Mathematics,Circles,Games,76,Visual,Geometric Shapes Kit,Provide students with a kit containing circle templates and other geometric shapes for hands-on activities,30
-6,Mathematics,Circles,Travelling,74,Kinesthetic,Math Trail,Go on a math trail to explore circle properties in the school environment,30
-6,Mathematics,Circles,Games,45,Kinesthetic,Relay Race,Organize a relay race with circle-related challenges,60
-6,Mathematics,Circles,Science,69,Visual,DIY Compass,Have students create their compasses to draw circles with different diameters,15
-6,Mathematics,Division,Music,45,Audio Visual,Online Tutorials,Watch online tutorials with visual aids to understand division,30
-6,Mathematics,Positional Value,Games,60,Kinesthetic,Number Comparison Race,Engage in a racing game that involves comparing numbers based on positional value,50
-6,Mathematics,Positional Value,Videos,80,Audio Visual,Math Visualization,Watch visualizations of large numbers and their positional value representation,40
-6,Mathematics,Positional Value,Games,80,Visual,Math Board Game,Play a math board game that involves positional value and numerical operations,35
-6,Mathematics,Subtraction,Games,38,Kinesthetic,Manipulatives,Provide students with counters to physically represent subtraction problems,30
-6,Mathematics,Positional Value,Games,75,Visual,Math Board Game,Play a math board game that involves positional value and numerical operations,35
-6,Mathematics,Positional Value,Games,40,Kinesthetic,Number Hunt,Search for and identify numbers with specific positional values in the classroom,30
-6,Mathematics,Circles,Games,46,Visual,Math Board Game,Play a math board game that involves circle-related questions and challenges,40
-6,Mathematics,Addition,Games,50,Visual,Number Line,Use a number line to solve addition problems,15
-6,Mathematics,Circles,Videos,75,Audio Visual,Explainer Video,Watch an animated video explaining circle measurements and theorems,30
-6,Mathematics,Division,Music,41,Audio Visual,Online Tutorials,Watch online tutorials with visual aids to understand division,30
-6,Mathematics,Circles,Games,90,Visual,Puzzle Solving,Solve circle puzzles with varying levels of difficulty,30
-6,Mathematics,Division,Games,92,Kinesthetic,Division Relay,Compete in a division relay race to reinforce concepts,45
-6,Mathematics,Circles,Science,68,Visual,DIY Compass,Have students create their compasses to draw circles with different diameters,15
-6,Mathematics,Circles,Art,86,Visual,Geometry Poster,Create a colorful poster summarizing key circle concepts and terms,20
-6,Mathematics,Subtraction,Games,40,Kinesthetic,Manipulatives,Provide students with counters to physically represent subtraction problems,30
-6,Mathematics,Positional Value,Games,54,Kinesthetic,Number Relay,Participate in a relay race that requires arranging numbers in ascending or descending order,50
-6,Mathematics,Positional Value,Games,48,Kinesthetic,Number Swap,Physically swap digits in numbers to understand the effect on their value,30
-6,Mathematics,Positional Value,Technology,85,Digital,Interactive Smartboard Games,Play interactive games on the smartboard to practice positional value concepts,35
-6,Mathematics,Circles,Travelling,80,Audio Visual,Outdoor Activity,Take students outside to identify and measure real-life circles in their surroundings,60
-6,Mathematics,Circles,Games,90,Visual,Shape Sorting,Sort 2D shapes and identify circles based on specific criteria,30
-6,Mathematics,Addition,Videos,52,Audio Visual,Math Video,Play math video explaining addition concepts,20
-6,Mathematics,Addition,Games,51,Visual,Whiteboard,Use the whiteboard to illustrate addition problems,10
-6,Mathematics,Circles,Games,87,Visual,Shape Sorting,Sort 2D shapes and identify circles based on specific criteria,30
-6,Mathematics,Circles,Art,61,Visual,Design Mandalas,Guide students to design mandalas with concentric circles,60
-6,Mathematics,Circles,Music,81,Audio,Math Song,Listen to a catchy song that covers circle concepts and terminology,10
-6,Mathematics,Positional Value,Art,56,Visual,Number Sculptures,Design sculptures representing numbers and their positional values,20
-6,Mathematics,Division,Art,62,Visual,Division Drawings,Illustrate division problems through creative drawings,10
-6,Mathematics,Subtraction,Games,37,Kinesthetic,Manipulatives,Provide students with counters to physically represent subtraction problems,30
-6,Mathematics,Circles,Art,35,Visual,Circle Collage,Create a collage using cutouts of circles from magazines and newspapers,45
-6,Mathematics,Positional Value,Games,51,Kinesthetic,Number Relay,Participate in a relay race that requires arranging numbers in ascending or descending order,50
-6,Mathematics,Subtraction,Videos,45,Audio Visual,Math Explorations,Explore subtraction concepts through engaging videos,20
-6,Mathematics,Multiplication,Science,45,Audio,Podcast,Listen to math podcasts explaining multiplication concepts,25
-6,Mathematics,Circles,Games,94,Visual,Puzzle Solving,Solve circle puzzles with varying levels of difficulty,30
-6,Mathematics,Circles,Videos,72,Audio Visual,Explainer Video,Watch an animated video explaining circle measurements and theorems,30
-6,Mathematics,Positional Value,Games,61,Visual,Place Value Bingo,Play bingo games to identify numbers and their place values,35
-6,Mathematics,Positional Value,Games,55,Kinesthetic,Number Comparison Race,Engage in a racing game that involves comparing numbers based on positional value,50
-6,Mathematics,Circles,Music,83,Audio,Math Song,Listen to a catchy song that covers circle concepts and terminology,10
-6,Mathematics,Multiplication,Science,50,Audio,Podcast,Listen to math podcasts explaining multiplication concepts,25
-6,Mathematics,Division,Art,61,Visual,Division Drawings,Illustrate division problems through creative drawings,10
-6,Mathematics,Division,Art,60,Visual,Division Drawings,Illustrate division problems through creative drawings,10
-6,Mathematics,Positional Value,Art,68,Visual,Number Patterns,"Create artistic patterns using numbers, highlighting their positional value",45
-6,Mathematics,Circles,Art,82,Kinesthetic,Circle Construction,Let students use compasses and rulers to construct circles of specific radii,30
-6,Mathematics,Positional Value,Art,84,Visual,Number Origami,Create origami figures representing numbers and their place values,20
-6,Mathematics,Circles,Videos,69,Audio Visual,Real-life Examples,Watch videos showing the application of circle properties in everyday life,25
-6,Mathematics,Circles,Technology,80,Digital,Interactive Software,Use interactive software to visualize and manipulate circle properties,25
-6,Mathematics,Circles,Videos,73,Audio Visual,Explainer Video,Watch an animated video explaining circle measurements and theorems,30
-6,Mathematics,Positional Value,Videos,72,Audio Visual,Math Video,Play a math video explaining the concept of positional value in numbers,25
-6,Mathematics,Positional Value,Videos,51,Audio Visual,Explainer Video,Watch an animated video explaining the role of positional value in number systems,40
-6,Mathematics,Circles,Art,64,Visual,Design Mandalas,Guide students to design mandalas with concentric circles,60
-6,Mathematics,Circles,Games,89,Visual,Shape Sorting,Sort 2D shapes and identify circles based on specific criteria,30
-6,Mathematics,Multiplication,Science,46,Audio,Podcast,Listen to math podcasts explaining multiplication concepts,25
-6,Mathematics,Division,Games,75,Kinesthetic,Math Game,Play a fun math game to practice division,30
-6,Mathematics,Addition,Music,60,Audio,Math Song,Listen to a math song that helps with addition concepts,5
-6,Mathematics,Subtraction,Art,64,Visual,Posters,Hang subtraction posters around the classroom for reference,10
-6,Mathematics,Addition,Videos,73,Audio Visual,Interactive Tutorial,Interact with an online tutorial that provides addition practice,30
-6,Mathematics,Circles,Videos,85,Audio Visual,Math Video,Play a math video explaining properties and formulas related to circles,25
-6,Mathematics,Multiplication,Art,74,Visual,Math Puzzles,Solve math puzzles related to multiplication,25
-6,Mathematics,Positional Value,Art,80,Visual,Number Dioramas,Create dioramas featuring numbers and their place values,45
-6,Mathematics,Circles,Games,42,Kinesthetic,Relay Race,Organize a relay race with circle-related challenges,60
-6,Mathematics,Positional Value,Games,44,Audio Visual,Number Sorting Activity,Sort and arrange number cards based on their positional value,60
-6,Mathematics,Multiplication,Games,73,Kinesthetic,Group Activities,Engage students in group activities to practice multiplication,45
-6,Mathematics,Addition,Games,55,Visual,Number Line,Use a number line to solve addition problems,15
-6,Mathematics,Circles,Games,75,Visual,Geometric Shapes Kit,Provide students with a kit containing circle templates and other geometric shapes for hands-on activities,30
-6,Mathematics,Division,Music,40,Audio Visual,Online Tutorials,Watch online tutorials with visual aids to understand division,30
-6,Mathematics,Circles,Art,32,Visual,Circle Collage,Create a collage using cutouts of circles from magazines and newspapers,45
-6,Mathematics,Multiplication,Art,56,Visual,Math Models,Create visual models to understand multiplication concepts,20
-6,Mathematics,Positional Value,Art,60,Visual,Number Sculptures,Design sculptures representing numbers and their positional values,20
-6,Mathematics,Circles,Travelling,76,Audio Visual,Outdoor Activity,Take students outside to identify and measure real-life circles in their surroundings,60
-6,Mathematics,Addition,Videos,74,Audio Visual,Interactive Tutorial,Interact with an online tutorial that provides addition practice,30
-6,Mathematics,Addition,Games,52,Visual,Number Line,Use a number line to solve addition problems,15
-6,Mathematics,Circles,Games,33,Kinesthetic,Team Quiz,Organize a quiz game where students answer circle-related questions in teams,45
-6,Mathematics,Positional Value,Games,70,Visual,Number Line Game,Play a game that involves plotting numbers on a number line based on their value,35
-6,Mathematics,Positional Value,Games,67,Visual,Number Line Game,Play a game that involves plotting numbers on a number line based on their value,35
-6,Mathematics,Circles,Games,31,Kinesthetic,Team Quiz,Organize a quiz game where students answer circle-related questions in teams,45
-6,Mathematics,Addition,Games,53,Visual,Number Line,Use a number line to solve addition problems,15
-6,Mathematics,Circles,Art,33,Visual,Circle Collage,Create a collage using cutouts of circles from magazines and newspapers,45
-6,Mathematics,Circles,Technology,82,Digital,Interactive Software,Use interactive software to visualize and manipulate circle properties,25
-6,Mathematics,Circles,Art,80,Visual,Geometric Origami,"Create origami shapes, including circles, using geometric folding techniques",20
-6,Mathematics,Circles,Videos,70,Audio Visual,Explainer Video,Watch an animated video explaining circle measurements and theorems,30
-6,Mathematics,Circles,Technology,86,Digital,Online Quizzes,Participate in online quizzes that test circle knowledge,40
-6,Mathematics,Circles,Games,78,Kinesthetic,Shape Hunt,Conduct a shape hunt activity where students find circles and other shapes in their environment,45
-6,Mathematics,Circles,Art,84,Kinesthetic,Circle Construction,Let students use compasses and rulers to construct circles of specific radii,30
-6,Mathematics,Positional Value,Games,32,Kinesthetic,Human Place Value Chart,Create a human place value chart with students acting as digits to represent numbers,30
-6,Mathematics,Positional Value,Games,84,Kinesthetic,Math Escape Room,Solve positional value puzzles to escape from a math-themed escape room,50
-6,Mathematics,Positional Value,Games,43,Audio Visual,Number Sorting Activity,Sort and arrange number cards based on their positional value,60
-6,Mathematics,Circles,Art,75,Visual,Geometric Origami,"Create origami shapes, including circles, using geometric folding techniques",20
-6,Mathematics,Positional Value,Art,66,Visual,Number Patterns,"Create artistic patterns using numbers, highlighting their positional value",45
-6,Mathematics,Circles,Games,76,Kinesthetic,Shape Hunt,Conduct a shape hunt activity where students find circles and other shapes in their environment,45
-6,Mathematics,Subtraction,Art,65,Visual,Posters,Hang subtraction posters around the classroom for reference,10
-6,Mathematics,Subtraction,Art,65,Visual,Posters,Hang subtraction posters around the classroom for reference,10
-6,Mathematics,Circles,Technology,90,Digital,Online Quizzes,Participate in online quizzes that test circle knowledge,40
-6,Mathematics,Circles,Games,85,Visual,Shape Sorting,Sort 2D shapes and identify circles based on specific criteria,30
-6,Mathematics,Circles,Travelling,75,Audio Visual,Outdoor Activity,Take students outside to identify and measure real-life circles in their surroundings,60
-6,Mathematics,Subtraction,Games,35,Kinesthetic,Manipulatives,Provide students with counters to physically represent subtraction problems,30
-6,Mathematics,Positional Value,Art,65,Visual,Number Patterns,"Create artistic patterns using numbers, highlighting their positional value",45
-6,Mathematics,Multiplication,Games,72,Kinesthetic,Group Activities,Engage students in group activities to practice multiplication,45
-6,Mathematics,Circles,Art,56,Visual,Pattern Creation,Create symmetrical patterns with circles as the central motif,20
-6,Mathematics,Division,Games,94,Kinesthetic,Division Relay,Compete in a division relay race to reinforce concepts,45
-6,Mathematics,Division,Games,73,Kinesthetic,Math Game,Play a fun math game to practice division,30
-6,Mathematics,Circles,Videos,67,Audio Visual,Real-life Examples,Watch videos showing the application of circle properties in everyday life,25
-6,Mathematics,Multiplication,Science,46,Audio,Podcast,Listen to math podcasts explaining multiplication concepts,25
-6,Mathematics,Circles,Music,82,Audio,Math Song,Listen to a catchy song that covers circle concepts and terminology,10
-6,Mathematics,Multiplication,Art,53,Visual,Math Models,Create visual models to understand multiplication concepts,20
-6,Mathematics,Positional Value,Art,32,Visual,Digit Collage,Create a collage using cutouts of digits and arrange them based on their positional value,20
-6,Mathematics,Positional Value,Games,76,Visual,Math Board Game,Play a math board game that involves positional value and numerical operations,35
-6,Mathematics,Subtraction,Videos,46,Audio Visual,Math Explorations,Explore subtraction concepts through engaging videos,20
-6,Mathematics,Positional Value,Travelling,57,Kinesthetic,Number Line Walk,Create a human number line in the classroom and position students based on numbers,30
-6,Mathematics,Positional Value,Games,58,Kinesthetic,Number Comparison Race,Engage in a racing game that involves comparing numbers based on positional value,50
-6,Mathematics,Division,Games,81,Visual,Charts,Show division charts with step-by-step solutions,15
-6,Mathematics,Positional Value,Videos,63,Audio Visual,Math Animation,Watch animated visualizations of how positional value affects number magnitudes,40
-6,Mathematics,Positional Value,Art,49,Visual,Place Value Art Project,Create art projects showcasing the positional value of digits in large numbers,45
-6,Mathematics,Division,Games,76,Kinesthetic,Math Game,Play a fun math game to practice division,30
-6,Mathematics,Positional Value,Games,41,Audio Visual,Number Sorting Activity,Sort and arrange number cards based on their positional value,60
-6,Mathematics,Multiplication,Art,71,Visual,Math Puzzles,Solve math puzzles related to multiplication,25
-6,Mathematics,Positional Value,Art,40,Visual,Number Collage,"Create a collage of numbers, highlighting their positional value in various contexts",45
-6,Mathematics,Positional Value,Art,76,Visual,Number Dioramas,Create dioramas featuring numbers and their place values,45
-6,Mathematics,Circles,Games,48,Visual,Math Board Game,Play a math board game that involves circle-related questions and challenges,40
-6,Mathematics,Positional Value,Games,52,Kinesthetic,Number Relay,Participate in a relay race that requires arranging numbers in ascending or descending order,50
-6,Mathematics,Circles,Games,82,Visual,Puzzles,Provide circle puzzles for students to solve and understand circle properties,20
-6,Mathematics,Subtraction,Games,36,Kinesthetic,Manipulatives,Provide students with counters to physically represent subtraction problems,30
-6,Mathematics,Circles,Science,67,Visual,DIY Compass,Have students create their compasses to draw circles with different diameters,15
-6,Mathematics,Positional Value,Games,78,Visual,Math Board Game,Play a math board game that involves positional value and numerical operations,35
-6,Mathematics,Subtraction,Art,61,Visual,Posters,Hang subtraction posters around the classroom for reference,10
-6,Mathematics,Positional Value,Videos,53,Audio Visual,Explainer Video,Watch an animated video explaining the role of positional value in number systems,40
-6,Mathematics,Positional Value,Games,42,Audio Visual,Number Sorting Activity,Sort and arrange number cards based on their positional value,60
-6,Mathematics,Subtraction,Videos,46,Audio Visual,Explainer Video,Watch an animated video explaining subtraction,15
-6,Mathematics,Circles,Art,81,Kinesthetic,Circle Construction,Let students use compasses and rulers to construct circles of specific radii,30
-6,Mathematics,Positional Value,Videos,73,Audio Visual,Math Video,Play a math video explaining the concept of positional value in numbers,25
-6,Mathematics,Circles,Games,35,Kinesthetic,Team Quiz,Organize a quiz game where students answer circle-related questions in teams,45
-6,Mathematics,Positional Value,Art,58,Visual,Number Sculptures,Design sculptures representing numbers and their positional values,20
-6,Mathematics,Positional Value,Videos,60,Audio Visual,Math Animation,Watch animated visualizations of how positional value affects number magnitudes,40
-6,Mathematics,Positional Value,Games,56,Kinesthetic,Number Comparison Race,Engage in a racing game that involves comparing numbers based on positional value,50
-6,Mathematics,Positional Value,Travelling,58,Kinesthetic,Number Line Walk,Create a human number line in the classroom and position students based on numbers,30
-6,Mathematics,Subtraction,Games,35,Kinesthetic,Manipulatives,Provide students with counters to physically represent subtraction problems,30
-6,Mathematics,Circles,Videos,80,Audio Visual,Math Video,Play a math video explaining properties and formulas related to circles,25
-6,Mathematics,Positional Value,Games,30,Kinesthetic,Human Place Value Chart,Create a human place value chart with students acting as digits to represent numbers,30
-6,Mathematics,Subtraction,Videos,53,Audio Visual,Math Explorations,Explore subtraction concepts through engaging videos,20
-6,Mathematics,Positional Value,Art,38,Visual,Number Collage,"Create a collage of numbers, highlighting their positional value in various contexts",45
-6,Mathematics,Circles,Technology,83,Digital,Interactive Software,Use interactive software to visualize and manipulate circle properties,25
-6,Mathematics,Circles,Music,80,Audio,Math Song,Listen to a catchy song that covers circle concepts and terminology,10
-6,Mathematics,Circles,Games,50,Visual,Math Board Game,Play a math board game that involves circle-related questions and challenges,40
-6,Mathematics,Multiplication,Science,45,Audio,Podcast,Listen to math podcasts explaining multiplication concepts,25
-6,Mathematics,Subtraction,Games,36,Kinesthetic,Manipulatives,Provide students with counters to physically represent subtraction problems,30
-6,Mathematics,Positional Value,Art,70,Visual,Number Patterns,"Create artistic patterns using numbers, highlighting their positional value",45
-6,Mathematics,Positional Value,Videos,71,Audio Visual,Math Video,Play a math video explaining the concept of positional value in numbers,25
-6,Mathematics,Positional Value,Art,79,Visual,Number Dioramas,Create dioramas featuring numbers and their place values,45
-6,Mathematics,Circles,Art,30,Visual,Circle Collage,Create a collage using cutouts of circles from magazines and newspapers,45
-6,Mathematics,Addition,Videos,54,Audio Visual,Math Video,Play math video explaining addition concepts,20
-6,Mathematics,Addition,Music,66,Audio,Math Song,Listen to a math song that helps with addition concepts,5
-6,Mathematics,Positional Value,Videos,78,Audio Visual,Math Visualization,Watch visualizations of large numbers and their positional value representation,40
-6,Mathematics,Division,Games,90,Kinesthetic,Division Relay,Compete in a division relay race to reinforce concepts,45
-6,Mathematics,Circles,Art,78,Visual,Geometric Origami,"Create origami shapes, including circles, using geometric folding techniques",20
-6,Mathematics,Division,Music,42,Audio Visual,Online Tutorials,Watch online tutorials with visual aids to understand division,30
-6,Mathematics,Division,Games,83,Visual,Charts,Show division charts with step-by-step solutions,15
-6,Mathematics,Circles,Art,80,Kinesthetic,Circle Construction,Let students use compasses and rulers to construct circles of specific radii,30
-6,Mathematics,Division,Games,84,Visual,Charts,Show division charts with step-by-step solutions,15
-6,Mathematics,Division,Games,82,Visual,Charts,Show division charts with step-by-step solutions,15
-6,Mathematics,Addition,Music,64,Audio,Math Song,Listen to a math song that helps with addition concepts,5
-6,Mathematics,Positional Value,Art,35,Visual,Digit Collage,Create a collage using cutouts of digits and arrange them based on their positional value,20
-6,Mathematics,Positional Value,Art,82,Visual,Number Origami,Create origami figures representing numbers and their place values,20
-6,Mathematics,Multiplication,Art,75,Visual,Math Puzzles,Solve math puzzles related to multiplication,25
-6,Mathematics,Multiplication,Art,70,Visual,Math Puzzles,Solve math puzzles related to multiplication,25
-6,Mathematics,Circles,Videos,83,Audio Visual,Math Video,Play a math video explaining properties and formulas related to circles,25
-6,Mathematics,Circles,Games,50,Kinesthetic,Memory Game,Play a memory game with cards containing circle properties and terms,15
-6,Mathematics,Positional Value,Games,49,Kinesthetic,Number Swap,Physically swap digits in numbers to understand the effect on their value,30
-6,Mathematics,Positional Value,Games,77,Visual,Math Board Game,Play a math board game that involves positional value and numerical operations,35
-6,Mathematics,Positional Value,Games,87,Kinesthetic,Math Riddles,Solve math riddles related to positional value and number patterns,50
+grade,subject,lesson,class_interests,lesson_average_mark,teaching_aid_category,teaching_aid
+6,Mathematics,Time,Games,49,Kinesthetic,Time Difference Board Game
+6,Mathematics,Time,Videos,69,Audio Visual,Time Theory Exposition
+6,Mathematics,Circles,Science,68,Visual,DIY Compass
+6,Mathematics,Time,Videos,60,Audio Visual,Time Concepts Animation
+6,Mathematics,Subtraction,Art,63,Visual,Posters
+6,Mathematics,Positional Value,Games,54,Kinesthetic,Number Relay
+6,Mathematics,Fractions,Art,43,Kinesthetic,Fraction Sculpture
+6,Mathematics,Circles,Travelling,79,Audio Visual,Outdoor Activity
+6,Mathematics,Positional Value,Art,84,Visual,Number Origami
+6,Mathematics,Addition,Videos,54,Audio Visual,Math Video
+6,Mathematics,Fractions,Games,59,Kinesthetic,Fraction Towers
+6,Mathematics,Circles,Videos,81,Audio Visual,Math Video
+6,Mathematics,Positional Value,Videos,70,Audio Visual,Math Video
+6,Mathematics,Subtraction,Videos,53,Audio Visual,Math Explorations
+6,Mathematics,Time,Music,62,Audio,Time Songs
+6,Mathematics,Multiplication,Science,46,Audio,Podcast
+6,Mathematics,Time,Art,71,Kinesthetic,Time Sculpture Symposium
+6,Mathematics,Fractions,Games,50,Kinesthetic,Escape Room Challenge
+6,Mathematics,Addition,Games,55,Visual,Number Line
+6,Mathematics,Fractions,Games,73,Digital,Online Quiz
+6,Mathematics,Positional Value,Videos,78,Audio Visual,Math Visualization
+6,Mathematics,Time,Games,61,Kinesthetic,Temporal Role Playing Game 
+6,Mathematics,Subtraction,Videos,41,Audio Visual,Explainer Video
+6,Mathematics,Fractions,Art,37,Visual,Whiteboard Drawing
+6,Mathematics,Circles,Games,53,Kinesthetic,Memory Game
+6,Mathematics,Positional Value,Videos,72,Audio Visual,Math Video
+6,Mathematics,Positional Value,Art,67,Visual,Number Patterns
+6,Mathematics,Time,Science,75,Audio Visual,Temporal In Depth Documentary
+6,Mathematics,Multiplication,Games,78,Kinesthetic,Group Activities
+6,Mathematics,Fractions,Art,30,Audio Visual,Fraction Drawings
+6,Mathematics,Time,Games,60,Kinesthetic,Historical Events Board Game
+6,Mathematics,Addition,Videos,52,Audio Visual,Math Video
+6,Mathematics,Addition,Music,63,Audio,Math Song
+6,Mathematics,Time,Games,64,Kinesthetic,Temporal Role Playing Game 
+6,Mathematics,Circles,Art,61,Visual,Design Mandalas
+6,Mathematics,Positional Value,Art,39,Visual,Number Collage
+6,Mathematics,Time,Art,80,Kinesthetic,ChronoArt Workshop
+6,Mathematics,Time,Games,85,Visual,Time Unit Puzzles
+6,Mathematics,Circles,Science,65,Visual,DIY Compass
+6,Mathematics,Positional Value,Games,44,Audio Visual,Number Sorting Activity
+6,Mathematics,Circles,Games,48,Visual,Math Board Game
+6,Mathematics,Time,Art,49,Visual,Time Unit Mosaics
+6,Mathematics,Addition,Music,66,Audio,Math Song
+6,Mathematics,Time,Art,51,Kinesthetic,Temporal Art Gallery
+6,Mathematics,Positional Value,Videos,52,Audio Visual,Explainer Video
+6,Mathematics,Positional Value,Videos,76,Audio Visual,Math Visualization
+6,Mathematics,Fractions,Art,42,Kinesthetic,Fraction Sculpture
+6,Mathematics,Time,Technology,86,Digital,Time Journey VR Experience
+6,Mathematics,Subtraction,Art,62,Visual,Posters
+6,Mathematics,Positional Value,Games,49,Kinesthetic,Number Swap
+6,Mathematics,Fractions,Games,56,Kinesthetic,Fraction Towers
+6,Mathematics,Time,Art,79,Kinesthetic,ChronoArt Workshop
+6,Mathematics,Circles,Games,47,Visual,Math Board Game
+6,Mathematics,Time,Art,78,Kinesthetic,ChronoArt Workshop
+6,Mathematics,Addition,Videos,71,Audio Visual,Interactive Tutorial
+6,Mathematics,Circles,Games,45,Visual,Math Board Game
+6,Mathematics,Multiplication,Art,50,Visual,Math Models
+6,Mathematics,Circles,Games,35,Kinesthetic,Team Quiz
+6,Mathematics,Time,Art,47,Visual,Time Unit Mosaics
+6,Mathematics,Time,Games,57,Kinesthetic,Historical Events Board Game
+6,Mathematics,Time,Art,58,Visual,Time Unit Diorama
+6,Mathematics,Positional Value,Art,57,Visual,Number Sculptures
+6,Mathematics,Circles,Videos,83,Audio Visual,Math Video
+6,Mathematics,Time,Videos,53,Audio Visual,Time Conversion Tutorials
+6,Mathematics,Time,Art,38,Visual,Time Unit Posters
+6,Mathematics,Addition,Games,52,Visual,Number Line
+6,Mathematics,Positional Value,Games,57,Kinesthetic,Number Comparison Race
+6,Mathematics,Positional Value,Videos,62,Audio Visual,Math Animation
+6,Mathematics,Circles,Games,84,Visual,Puzzles
+6,Mathematics,Fractions,Videos,49,Visual,Fraction Chart
+6,Mathematics,Time,Games,80,Kinesthetic,Time Quizz
+6,Mathematics,Time,Games,46,Kinesthetic,Time Difference Board Game
+6,Mathematics,Positional Value,Art,65,Visual,Number Patterns
+6,Mathematics,Circles,Games,41,Kinesthetic,Relay Race
+6,Mathematics,Division,Games,84,Visual,Charts
+6,Mathematics,Time,Games,77,Kinesthetic,Time Quizz
+6,Mathematics,Positional Value,Games,65,Visual,Place Value Bingo
+6,Mathematics,Time,Games,69,Kinesthetic,Time Trial Physical Challenge
+6,Mathematics,Positional Value,Art,85,Visual,Number Origami
+6,Mathematics,Time,Art,50,Visual,Time Unit Mosaics
+6,Mathematics,Time,Games,74,Kinesthetic,Time Unit Obstacle Course
+6,Mathematics,Circles,Art,79,Visual,Geometric Origami
+6,Mathematics,Positional Value,Games,37,Kinesthetic,Number Hunt
+6,Mathematics,Fractions,Art,45,Kinesthetic,Fraction Sculpture
+6,Mathematics,Positional Value,Games,35,Kinesthetic,Number Hunt
+6,Mathematics,Fractions,Art,57,Visual,Fraction Mosaic
+6,Mathematics,Time,Travelling,65,Kinesthetic,Time Zone Exploration Adventure
+6,Mathematics,Time,Games,33,Visual,Time Unit Matching Game
+6,Mathematics,Positional Value,Games,68,Visual,Number Line Game
+6,Mathematics,Multiplication,Art,53,Visual,Math Models
+6,Mathematics,Addition,Videos,73,Audio Visual,Interactive Tutorial
+6,Mathematics,Circles,Art,72,Visual,Art Project
+6,Mathematics,Circles,Games,90,Visual,Puzzle Solving
+6,Mathematics,Time,Art,68,Visual,Temporal Canvas Artwork
+6,Mathematics,Positional Value,Games,48,Kinesthetic,Number Swap
+6,Mathematics,Positional Value,Videos,51,Audio Visual,Explainer Video
+6,Mathematics,Fractions,Art,33,Audio Visual,Fraction Drawings
+6,Mathematics,Time,Art,37,Visual,Time Unit Posters
+6,Mathematics,Time,Games,79,Kinesthetic,Time Quizz
+6,Mathematics,Circles,Music,82,Audio,Math Song
+6,Mathematics,Time,Games,35,Visual,Time Unit Matching Game
+6,Mathematics,Fractions,Videos,56,Audio Visual,Fraction Animation
+6,Mathematics,Fractions,Videos,77,Visual,Visual Puzzles
+6,Mathematics,Fractions,Videos,48,Visual,Fraction Chart
+6,Mathematics,Addition,Videos,75,Audio Visual,Interactive Tutorial
+6,Mathematics,Subtraction,Art,63,Visual,Posters
+6,Mathematics,Fractions,Videos,50,Visual,Fraction Chart
+6,Mathematics,Division,Art,61,Visual,Division Drawings
+6,Mathematics,Time,Art,82,Kinesthetic,Time Capsule Creation Kit
+6,Mathematics,Positional Value,Games,43,Audio Visual,Number Sorting Activity
+6,Mathematics,Time,Art,31,Visual,Time Unit Collage
+6,Mathematics,Time,Art,26,Visual,Time Unit Drawings
+6,Mathematics,Division,Games,92,Kinesthetic,Division Relay
+6,Mathematics,Fractions,Videos,35,Visual,Visual Manipulatives
+6,Mathematics,Fractions,Games,34,Kinesthetic,Fraction Tiles
+6,Mathematics,Positional Value,Technology,83,Digital,Number Patterns Software
+6,Mathematics,Circles,Art,62,Visual,Design Mandalas
+6,Mathematics,Circles,Technology,85,Digital,Interactive Software
+6,Mathematics,Time,Art,56,Visual,Time Unit Diorama
+6,Mathematics,Time,Games,52,Kinesthetic,Time Unit Relay Race
+6,Mathematics,Fractions,Games,52,Kinesthetic,Escape Room Challenge
+6,Mathematics,Time,Art,29,Visual,Time Unit Drawings
+6,Mathematics,Circles,Games,95,Visual,Puzzle Solving
+6,Mathematics,Time,Art,46,Visual,Time Unit Mosaics
+6,Mathematics,Addition,Games,41,Visual,Flashcards
+6,Mathematics,Division,Games,81,Visual,Charts
+6,Mathematics,Circles,Games,75,Kinesthetic,Shape Hunt
+6,Mathematics,Time,Games,68,Kinesthetic,Time Trial Physical Challenge
+6,Mathematics,Time,Music,65,Audio,Time Songs
+6,Mathematics,Circles,Art,71,Visual,Art Project
+6,Mathematics,Fractions,Art,36,Visual,Whiteboard Drawing
+6,Mathematics,Time,Art,40,Visual,Time Unit Posters
+6,Mathematics,Addition,Music,65,Audio,Math Song
+6,Mathematics,Fractions,Games,36,Kinesthetic,Fraction Dominoes
+6,Mathematics,Subtraction,Art,64,Visual,Posters
+6,Mathematics,Fractions,Videos,39,Visual,Visual Manipulatives
+6,Mathematics,Positional Value,Art,34,Visual,Digit Collage
+6,Mathematics,Time,Games,78,Kinesthetic,Time Quizz
+6,Mathematics,Positional Value,Videos,73,Audio Visual,Math Video
+6,Mathematics,Positional Value,Games,78,Visual,Math Board Game
+6,Mathematics,Time,Videos,54,Audio Visual,Time Conversion Tutorials
+6,Mathematics,Circles,Videos,75,Audio Visual,Explainer Video
+6,Mathematics,Circles,Games,89,Visual,Shape Sorting
+6,Mathematics,Positional Value,Games,60,Kinesthetic,Number Comparison Race
+6,Mathematics,Positional Value,Games,63,Visual,Place Value Bingo
+6,Mathematics,Positional Value,Art,47,Visual,Place Value Art Project
+6,Mathematics,Positional Value,Games,84,Kinesthetic,Math Escape Room
+6,Mathematics,Addition,Games,42,Visual,Flashcards
+6,Mathematics,Division,Art,80,Visual,DIY Posters
+6,Mathematics,Circles,Videos,70,Audio Visual,Explainer Video
+6,Mathematics,Multiplication,Art,52,Visual,Math Models
+6,Mathematics,Time,Art,57,Visual,Time Unit Diorama
+6,Mathematics,Positional Value,Art,81,Visual,Number Origami
+6,Mathematics,Addition,Games,54,Visual,Whiteboard
+6,Mathematics,Addition,Videos,55,Audio Visual,Math Video
+6,Mathematics,Fractions,Games,38,Kinesthetic,Fraction Dominoes
+6,Mathematics,Circles,Games,50,Kinesthetic,Memory Game
+6,Mathematics,Fractions,Art,35,Audio Visual,Fraction Drawings
+6,Mathematics,Circles,Art,30,Visual,Circle Collage
+6,Mathematics,Time,Art,36,Visual,Time Unit Posters
+6,Mathematics,Positional Value,Games,56,Kinesthetic,Number Comparison Race
+6,Mathematics,Positional Value,Games,45,Audio Visual,Number Sorting Activity
+6,Mathematics,Positional Value,Technology,88,Digital,Interactive Smartboard Games
+6,Mathematics,Fractions,Art,53,Visual,Fraction Collage
+6,Mathematics,Positional Value,Art,35,Visual,Digit Collage
+6,Mathematics,Circles,Videos,65,Audio Visual,Real-life Examples
+6,Mathematics,Addition,Games,53,Visual,Number Line
+6,Mathematics,Positional Value,Games,47,Kinesthetic,Number Swap
+6,Mathematics,Addition,Games,52,Visual,Whiteboard
+6,Mathematics,Circles,Art,73,Visual,Art Project
+6,Mathematics,Subtraction,Games,39,Kinesthetic,Manipulatives
+6,Mathematics,Time,Art,84,Kinesthetic,Time Capsule Creation Kit
+6,Mathematics,Circles,Art,80,Visual,Geometric Origami
+6,Mathematics,Circles,Travelling,75,Kinesthetic,Math Trail
+6,Mathematics,Positional Value,Videos,50,Audio Visual,Explainer Video
+6,Mathematics,Division,Art,60,Visual,Division Drawings
+6,Mathematics,Addition,Videos,50,Audio Visual,Math Video
+6,Mathematics,Circles,Music,80,Audio,Math Song
+6,Mathematics,Division,Games,76,Kinesthetic,Math Game
+6,Mathematics,Fractions,Videos,73,Audio Visual,Fraction Cinematic Experience
+6,Mathematics,Circles,Music,81,Audio,Math Song
+6,Mathematics,Subtraction,Art,66,Visual,Posters
+6,Mathematics,Time,Games,45,Kinesthetic,Time Conversion Bingo
+6,Mathematics,Time,Music,63,Audio,Time Songs
+6,Mathematics,Positional Value,Videos,65,Audio Visual,Math Animation
+6,Mathematics,Fractions,Videos,54,Visual,Fraction Comparison Charts
+6,Mathematics,Division,Art,62,Visual,Division Drawings
+6,Mathematics,Fractions,Art,50,Kinesthetic,Collaborative Art
+6,Mathematics,Circles,Art,60,Visual,Design Mandalas
+6,Mathematics,Addition,Games,43,Visual,Flashcards
+6,Mathematics,Positional Value,Videos,53,Audio Visual,Explainer Video
+6,Mathematics,Division,Music,40,Audio Visual,Online Tutorials
+6,Mathematics,Time,Games,65,Kinesthetic,Temporal Role Playing Game 
+6,Mathematics,Circles,Technology,86,Digital,Online Quizzes
+6,Mathematics,Time,Games,32,Visual,Time Unit Matching Game
+6,Mathematics,Fractions,Videos,43,Audio Visual,Educational Video
+6,Mathematics,Fractions,Art,41,Kinesthetic,Fraction Sculpture
+6,Mathematics,Time,Art,53,Kinesthetic,Temporal Art Gallery
+6,Mathematics,Circles,Games,91,Visual,Puzzle Solving
+6,Mathematics,Division,Games,80,Visual,Charts
+6,Mathematics,Circles,Games,30,Kinesthetic,Team Quiz
+6,Mathematics,Time,Games,31,Visual,Time Unit Matching Game
+6,Mathematics,Circles,Games,31,Kinesthetic,Team Quiz
+6,Mathematics,Circles,Videos,66,Audio Visual,Real-life Examples
+6,Mathematics,Time,Art,83,Kinesthetic,Time Capsule Creation Kit
+6,Mathematics,Multiplication,Art,56,Visual,Math Models
+6,Mathematics,Circles,Games,88,Visual,Shape Sorting
+6,Mathematics,Positional Value,Art,79,Visual,Number Dioramas
+6,Mathematics,Fractions,Art,47,Kinesthetic,Collaborative Art
+6,Mathematics,Time,Science,71,Audio Visual,Temporal In Depth Documentary
+6,Mathematics,Positional Value,Games,33,Kinesthetic,Human Place Value Chart
+6,Mathematics,Circles,Videos,69,Audio Visual,Real-life Examples
+6,Mathematics,Division,Games,93,Kinesthetic,Division Relay
+6,Mathematics,Time,Games,54,Kinesthetic,Time Unit Relay Race
+6,Mathematics,Fractions,Games,53,Kinesthetic,Escape Room Challenge
+6,Mathematics,Multiplication,Games,74,Kinesthetic,Group Activities
+6,Mathematics,Fractions,Games,35,Kinesthetic,Fraction Dominoes
+6,Mathematics,Time,Technology,90,Digital,Time Journey VR Experience
+6,Mathematics,Multiplication,Art,72,Visual,Math Puzzles
+6,Mathematics,Time,Games,76,Kinesthetic,Time Quizz
+6,Mathematics,Positional Value,Videos,63,Audio Visual,Math Animation
+6,Mathematics,Division,Games,82,Visual,Charts
+6,Mathematics,Circles,Games,43,Kinesthetic,Relay Race
+6,Mathematics,Positional Value,Games,58,Kinesthetic,Number Comparison Race
+6,Mathematics,Fractions,Games,30,Kinesthetic,Fraction Tiles
+6,Mathematics,Fractions,Art,46,Kinesthetic,Collaborative Art
+6,Mathematics,Subtraction,Videos,46,Audio Visual,Explainer Video
+6,Mathematics,Fractions,Games,37,Kinesthetic,Fraction Dominoes
+6,Mathematics,Positional Value,Games,36,Kinesthetic,Number Hunt
+6,Mathematics,Positional Value,Games,61,Visual,Place Value Bingo
+6,Mathematics,Subtraction,Games,35,Kinesthetic,Manipulatives
+6,Mathematics,Subtraction,Videos,43,Audio Visual,Explainer Video
+6,Mathematics,Circles,Art,64,Visual,Design Mandalas
+6,Mathematics,Fractions,Art,38,Visual,Whiteboard Drawing
+6,Mathematics,Circles,Games,86,Visual,Puzzles
+6,Mathematics,Time,Art,52,Kinesthetic,Temporal Art Gallery
+6,Mathematics,Positional Value,Games,77,Visual,Math Board Game
+6,Mathematics,Time,Games,66,Kinesthetic,Time Trial Physical Challenge
+6,Mathematics,Positional Value,Travelling,56,Kinesthetic,Number Line Walk
+6,Mathematics,Positional Value,Games,50,Kinesthetic,Number Relay
+6,Mathematics,Time,Games,41,Kinesthetic,Time Conversion Bingo
+6,Mathematics,Fractions,Games,71,Digital,Online Quiz
+6,Mathematics,Circles,Travelling,75,Audio Visual,Outdoor Activity
+6,Mathematics,Division,Art,65,Visual,Division Drawings
+6,Mathematics,Addition,Games,54,Visual,Number Line
+6,Mathematics,Time,Games,36,Kinesthetic,Time Measurement Activity
+6,Mathematics,Subtraction,Art,65,Visual,Posters
+6,Mathematics,Multiplication,Games,76,Kinesthetic,Group Activities
+6,Mathematics,Positional Value,Videos,61,Audio Visual,Math Animation
+6,Mathematics,Subtraction,Videos,48,Audio Visual,Math Explorations
+6,Mathematics,Division,Art,82,Visual,DIY Posters
+6,Mathematics,Fractions,Games,31,Kinesthetic,Fraction Tiles
+6,Mathematics,Circles,Art,59,Visual,Pattern Creation
+6,Mathematics,Fractions,Games,65,Kinesthetic,Fraction Board Game
+6,Mathematics,Positional Value,Art,66,Visual,Number Patterns
+6,Mathematics,Fractions,Art,56,Visual,Fraction Mosaic
+6,Mathematics,Circles,Travelling,76,Audio Visual,Outdoor Activity
+6,Mathematics,Fractions,Videos,69,Audio Visual,Fraction Documentary
+6,Mathematics,Multiplication,Science,48,Audio,Podcast
+6,Mathematics,Circles,Art,86,Visual,Geometry Poster
+6,Mathematics,Multiplication,Science,49,Audio,Podcast
+6,Mathematics,Fractions,Art,52,Visual,Fraction Collage
+6,Mathematics,Time,Games,38,Kinesthetic,Time Measurement Activity
+6,Mathematics,Time,Art,81,Kinesthetic,Time Capsule Creation Kit
+6,Mathematics,Circles,Games,77,Kinesthetic,Shape Hunt
+6,Mathematics,Circles,Art,84,Kinesthetic,Circle Construction
+6,Mathematics,Fractions,Videos,53,Visual,Fraction Comparison Charts
+6,Mathematics,Positional Value,Games,81,Kinesthetic,Math Escape Room
+6,Mathematics,Circles,Games,92,Visual,Puzzle Solving
+6,Mathematics,Positional Value,Technology,87,Digital,Interactive Smartboard Games
+6,Mathematics,Multiplication,Science,45,Audio,Podcast
+6,Mathematics,Division,Art,85,Visual,DIY Posters
+6,Mathematics,Positional Value,Art,56,Visual,Number Sculptures
+6,Mathematics,Time,Art,76,Kinesthetic,ChronoArt Workshop
+6,Mathematics,Circles,Art,75,Visual,Art Project
+6,Mathematics,Time,Music,60,Audio,Time Songs
+6,Mathematics,Addition,Music,64,Audio,Math Song
+6,Mathematics,Fractions,Games,44,Kinesthetic,Fraction Hopscotch
+6,Mathematics,Division,Games,73,Kinesthetic,Math Game
+6,Mathematics,Multiplication,Science,48,Audio,Podcast
+6,Mathematics,Circles,Art,75,Visual,Geometric Origami
+6,Mathematics,Fractions,Games,57,Kinesthetic,Fraction Towers
+6,Mathematics,Time,Science,74,Audio Visual,Temporal In Depth Documentary
+6,Mathematics,Time,Videos,50,Audio Visual,Time Conversion Tutorials
+6,Mathematics,Time,Videos,57,Audio Visual,Time Concepts Animation
+6,Mathematics,Division,Music,41,Audio Visual,Online Tutorials
+6,Mathematics,Circles,Art,89,Visual,Geometry Poster
+6,Mathematics,Circles,Technology,89,Digital,Online Quizzes
+6,Mathematics,Positional Value,Art,30,Visual,Digit Collage
+6,Mathematics,Addition,Games,44,Visual,Flashcards
+6,Mathematics,Fractions,Art,60,Visual,Fraction Mosaic
+6,Mathematics,Fractions,Art,55,Visual,Fraction Collage
+6,Mathematics,Fractions,Games,32,Kinesthetic,Fraction Tiles
+6,Mathematics,Positional Value,Games,83,Kinesthetic,Math Escape Room
+6,Mathematics,Circles,Videos,84,Audio Visual,Math Video
+6,Mathematics,Time,Games,58,Kinesthetic,Historical Events Board Game
+6,Mathematics,Circles,Games,78,Kinesthetic,Shape Hunt
+6,Mathematics,Fractions,Games,42,Kinesthetic,Fraction Hopscotch
+6,Mathematics,Subtraction,Games,35,Kinesthetic,Manipulatives
+6,Mathematics,Time,Art,35,Visual,Time Unit Collage
+6,Mathematics,Fractions,Games,66,Kinesthetic,Fraction Board Game
+6,Mathematics,Multiplication,Art,71,Visual,Math Puzzles
+6,Mathematics,Circles,Art,83,Kinesthetic,Circle Construction
+6,Mathematics,Positional Value,Videos,71,Audio Visual,Math Video
+6,Mathematics,Circles,Art,32,Visual,Circle Collage
+6,Mathematics,Positional Value,Art,70,Visual,Number Patterns
+6,Mathematics,Positional Value,Technology,80,Digital,Number Patterns Software
+6,Mathematics,Time,Art,55,Kinesthetic,Temporal Art Gallery
+6,Mathematics,Circles,Games,94,Visual,Puzzle Solving
+6,Mathematics,Positional Value,Games,69,Visual,Number Line Game
+6,Mathematics,Circles,Games,33,Kinesthetic,Team Quiz
+6,Mathematics,Time,Videos,55,Audio Visual,Time Concepts Animation
+6,Mathematics,Positional Value,Games,62,Visual,Place Value Bingo
+6,Mathematics,Division,Games,90,Kinesthetic,Division Relay
+6,Mathematics,Time,Art,41,Visual,Time Unit Sculptures
+6,Mathematics,Fractions,Videos,71,Audio Visual,Fraction Cinematic Experience
+6,Mathematics,Positional Value,Technology,90,Digital,Interactive Smartboard Games
+6,Mathematics,Circles,Games,85,Visual,Shape Sorting
+6,Mathematics,Time,Technology,52,Kinesthetic,Time Unit Stopwatch Challenge
+6,Mathematics,Circles,Games,87,Visual,Shape Sorting
+6,Mathematics,Fractions,Videos,67,Audio Visual,Fraction Documentary
+6,Mathematics,Circles,Games,40,Kinesthetic,Relay Race
+6,Mathematics,Circles,Art,81,Kinesthetic,Circle Construction
+6,Mathematics,Fractions,Art,32,Audio Visual,Fraction Drawings
+6,Mathematics,Time,Games,75,Kinesthetic,Time Unit Obstacle Course
+6,Mathematics,Time,Art,85,Kinesthetic,Time Capsule Creation Kit
+6,Mathematics,Circles,Games,73,Visual,Geometric Shapes Kit
+6,Mathematics,Time,Games,84,Visual,Time Unit Puzzles
+6,Mathematics,Subtraction,Videos,49,Audio Visual,Math Explorations
+6,Mathematics,Positional Value,Games,51,Kinesthetic,Number Relay
+6,Mathematics,Fractions,Videos,65,Audio Visual,Fraction Documentary
+6,Mathematics,Circles,Games,76,Kinesthetic,Shape Hunt
+6,Mathematics,Positional Value,Art,76,Visual,Number Dioramas
+6,Mathematics,Positional Value,Technology,82,Digital,Number Patterns Software
+6,Mathematics,Circles,Games,85,Visual,Puzzles
+6,Mathematics,Fractions,Videos,68,Audio Visual,Fraction Documentary
+6,Mathematics,Time,Videos,61,Audio Visual,Time Explorations Series
+6,Mathematics,Positional Value,Games,41,Audio Visual,Number Sorting Activity
+6,Mathematics,Time,Travelling,61,Kinesthetic,Time Zone Exploration Adventure
+6,Mathematics,Fractions,Art,48,Kinesthetic,Collaborative Art
+6,Mathematics,Division,Games,91,Kinesthetic,Division Relay
+6,Mathematics,Positional Value,Videos,80,Audio Visual,Math Visualization
+6,Mathematics,Time,Art,43,Visual,Time Unit Sculptures
+6,Mathematics,Circles,Videos,73,Audio Visual,Explainer Video
+6,Mathematics,Positional Value,Games,87,Kinesthetic,Math Riddles
+6,Mathematics,Fractions,Games,33,Kinesthetic,Fraction Tiles
+6,Mathematics,Circles,Games,82,Visual,Puzzles
+6,Mathematics,Positional Value,Art,58,Visual,Number Sculptures
+6,Mathematics,Positional Value,Games,30,Kinesthetic,Human Place Value Chart
+6,Mathematics,Positional Value,Travelling,58,Kinesthetic,Number Line Walk
+6,Mathematics,Subtraction,Games,39,Kinesthetic,Manipulatives
+6,Mathematics,Circles,Games,72,Visual,Geometric Shapes Kit
+6,Mathematics,Positional Value,Games,82,Kinesthetic,Math Escape Room
+6,Mathematics,Addition,Games,50,Visual,Whiteboard
+6,Mathematics,Division,Games,83,Visual,Charts
+6,Mathematics,Multiplication,Science,45,Audio,Podcast
+6,Mathematics,Circles,Videos,67,Audio Visual,Real-life Examples
+6,Mathematics,Circles,Games,90,Visual,Shape Sorting
+6,Mathematics,Positional Value,Art,49,Visual,Place Value Art Project
+6,Mathematics,Multiplication,Science,50,Audio,Podcast
+6,Mathematics,Positional Value,Art,37,Visual,Number Collage
+6,Mathematics,Fractions,Games,40,Kinesthetic,Fraction Dominoes
+6,Mathematics,Circles,Technology,90,Digital,Online Quizzes
+6,Mathematics,Division,Music,42,Audio Visual,Online Tutorials
+6,Mathematics,Time,Science,73,Audio Visual,Temporal In Depth Documentary
+6,Mathematics,Time,Art,72,Kinesthetic,Time Sculpture Symposium
+6,Mathematics,Time,Games,55,Kinesthetic,Time Unit Relay Race
+6,Mathematics,Time,Games,72,Kinesthetic,Time Unit Obstacle Course
+6,Mathematics,Positional Value,Technology,84,Digital,Number Patterns Software
+6,Mathematics,Circles,Art,35,Visual,Circle Collage
+6,Mathematics,Fractions,Games,43,Kinesthetic,Fraction Hopscotch
+6,Mathematics,Fractions,Art,44,Kinesthetic,Fraction Sculpture
+6,Mathematics,Positional Value,Art,68,Visual,Number Patterns
+6,Mathematics,Fractions,Art,54,Visual,Fraction Collage
+6,Mathematics,Circles,Science,67,Visual,DIY Compass
+6,Mathematics,Positional Value,Games,40,Kinesthetic,Number Hunt
+6,Mathematics,Multiplication,Art,70,Visual,Math Puzzles
+6,Mathematics,Circles,Games,55,Kinesthetic,Memory Game
+6,Mathematics,Positional Value,Art,80,Visual,Number Dioramas
+6,Mathematics,Fractions,Art,58,Visual,Fraction Mosaic
+6,Mathematics,Time,Games,70,Kinesthetic,Time Trial Physical Challenge
+6,Mathematics,Subtraction,Games,38,Kinesthetic,Manipulatives
+6,Mathematics,Circles,Music,85,Audio,Math Song
+6,Mathematics,Positional Value,Games,46,Kinesthetic,Number Swap
+6,Mathematics,Positional Value,Games,45,Kinesthetic,Number Swap
+6,Mathematics,Time,Travelling,62,Kinesthetic,Time Zone Exploration Adventure
+6,Mathematics,Fractions,Videos,60,Audio Visual,Fraction Animation
+6,Mathematics,Time,Art,27,Visual,Time Unit Drawings
+6,Mathematics,Subtraction,Videos,42,Audio Visual,Explainer Video
+6,Mathematics,Positional Value,Games,66,Visual,Number Line Game
+6,Mathematics,Circles,Games,79,Kinesthetic,Shape Hunt
+6,Mathematics,Positional Value,Technology,81,Digital,Number Patterns Software
+6,Mathematics,Circles,Art,57,Visual,Pattern Creation
+6,Mathematics,Division,Art,63,Visual,Division Drawings
+6,Mathematics,Division,Art,83,Visual,DIY Posters
+6,Mathematics,Circles,Games,32,Kinesthetic,Team Quiz
+6,Mathematics,Fractions,Games,68,Kinesthetic,Fraction Board Game
+6,Mathematics,Time,Art,28,Visual,Time Unit Drawings
+6,Mathematics,Positional Value,Games,70,Visual,Number Line Game
+6,Mathematics,Time,Videos,65,Audio Visual,Time Explorations Series
+6,Mathematics,Positional Value,Art,83,Visual,Number Origami
+6,Mathematics,Time,Games,56,Kinesthetic,Historical Events Board Game
+6,Mathematics,Fractions,Videos,80,Visual,Visual Puzzles
+6,Mathematics,Fractions,Videos,47,Visual,Fraction Chart
+6,Mathematics,Circles,Music,83,Audio,Math Song
+6,Mathematics,Division,Games,71,Kinesthetic,Math Game
+6,Mathematics,Time,Art,75,Kinesthetic,Time Sculpture Symposium
+6,Mathematics,Multiplication,Science,46,Audio,Podcast
+6,Mathematics,Circles,Technology,85,Digital,Online Quizzes
+6,Mathematics,Circles,Art,56,Visual,Pattern Creation
+6,Mathematics,Positional Value,Games,85,Kinesthetic,Math Riddles
+6,Mathematics,Circles,Games,42,Kinesthetic,Relay Race
+6,Mathematics,Positional Value,Art,45,Visual,Place Value Art Project
+6,Mathematics,Circles,Games,76,Visual,Geometric Shapes Kit
+6,Mathematics,Positional Value,Videos,75,Audio Visual,Math Video
+6,Mathematics,Time,Games,40,Kinesthetic,Time Measurement Activity
+6,Mathematics,Addition,Videos,74,Audio Visual,Interactive Tutorial
+6,Mathematics,Positional Value,Art,77,Visual,Number Dioramas
+6,Mathematics,Time,Technology,55,Kinesthetic,Time Unit Stopwatch Challenge
+6,Mathematics,Fractions,Videos,66,Audio Visual,Fraction Documentary
+6,Mathematics,Positional Value,Games,90,Kinesthetic,Math Riddles
+6,Mathematics,Positional Value,Travelling,55,Kinesthetic,Number Line Walk
+6,Mathematics,Multiplication,Art,74,Visual,Math Puzzles
+6,Mathematics,Time,Videos,68,Audio Visual,Time Theory Exposition
+6,Mathematics,Positional Value,Games,31,Kinesthetic,Human Place Value Chart
+6,Mathematics,Time,Games,39,Kinesthetic,Time Measurement Activity
+6,Mathematics,Time,Videos,64,Audio Visual,Time Explorations Series
+6,Mathematics,Positional Value,Art,40,Visual,Number Collage
+6,Mathematics,Circles,Games,54,Kinesthetic,Memory Game
+6,Mathematics,Time,Art,25,Visual,Time Unit Drawings
+6,Mathematics,Time,Videos,58,Audio Visual,Time Concepts Animation
+6,Mathematics,Division,Games,75,Kinesthetic,Math Game
+6,Mathematics,Time,Videos,62,Audio Visual,Time Explorations Series
+6,Mathematics,Addition,Games,50,Visual,Number Line
+6,Mathematics,Fractions,Games,75,Digital,Online Quiz
+6,Mathematics,Time,Technology,51,Kinesthetic,Time Unit Stopwatch Challenge
+6,Mathematics,Time,Art,60,Visual,Time Unit Diorama
+6,Mathematics,Fractions,Games,67,Kinesthetic,Fraction Board Game
+6,Mathematics,Circles,Science,66,Visual,DIY Compass
+6,Mathematics,Circles,Travelling,80,Audio Visual,Outdoor Activity
+6,Mathematics,Time,Games,81,Visual,Time Unit Puzzles
+6,Mathematics,Circles,Art,76,Visual,Geometric Origami
+6,Mathematics,Fractions,Videos,37,Visual,Visual Manipulatives
+6,Mathematics,Circles,Art,85,Visual,Geometry Poster
+6,Mathematics,Time,Science,72,Audio Visual,Temporal In Depth Documentary
+6,Mathematics,Positional Value,Art,46,Visual,Place Value Art Project
+6,Mathematics,Subtraction,Art,65,Visual,Posters
+6,Mathematics,Fractions,Videos,46,Visual,Fraction Chart
+6,Mathematics,Fractions,Videos,55,Visual,Fraction Comparison Charts
+6,Mathematics,Time,Art,77,Kinesthetic,ChronoArt Workshop
+6,Mathematics,Positional Value,Games,76,Visual,Math Board Game
+6,Mathematics,Fractions,Videos,38,Visual,Visual Manipulatives
+6,Mathematics,Circles,Travelling,71,Kinesthetic,Math Trail
+6,Mathematics,Positional Value,Games,53,Kinesthetic,Number Relay
+6,Mathematics,Time,Art,48,Visual,Time Unit Mosaics
+6,Mathematics,Addition,Games,55,Visual,Whiteboard
+6,Mathematics,Positional Value,Games,32,Kinesthetic,Human Place Value Chart
+6,Mathematics,Time,Games,50,Kinesthetic,Time Difference Board Game
+6,Mathematics,Circles,Art,33,Visual,Circle Collage
+6,Mathematics,Time,Travelling,60,Kinesthetic,Time Zone Exploration Adventure
+6,Mathematics,Positional Value,Games,67,Visual,Number Line Game
+6,Mathematics,Time,Technology,50,Kinesthetic,Time Unit Stopwatch Challenge
+6,Mathematics,Multiplication,Art,75,Visual,Math Puzzles
+6,Mathematics,Positional Value,Games,52,Kinesthetic,Number Relay
+6,Mathematics,Time,Art,65,Visual,Temporal Canvas Artwork
+6,Mathematics,Time,Technology,85,Digital,Time Journey VR Experience
+6,Mathematics,Circles,Technology,81,Digital,Interactive Software
+6,Mathematics,Fractions,Games,41,Kinesthetic,Fraction Hopscotch
+6,Mathematics,Addition,Music,60,Audio,Math Song
+6,Mathematics,Time,Games,45,Kinesthetic,Time Conversion Bingo
+6,Mathematics,Fractions,Games,55,Kinesthetic,Escape Room Challenge
+6,Mathematics,Circles,Science,69,Visual,DIY Compass
+6,Mathematics,Fractions,Videos,75,Audio Visual,Fraction Cinematic Experience
+6,Mathematics,Fractions,Videos,70,Audio Visual,Fraction Cinematic Experience
+6,Mathematics,Fractions,Art,40,Visual,Whiteboard Drawing
+6,Mathematics,Subtraction,Art,67,Visual,Posters
+6,Mathematics,Positional Value,Games,81,Kinesthetic,Math Escape Room
+6,Mathematics,Time,Videos,67,Audio Visual,Time Theory Exposition
+6,Mathematics,Positional Value,Games,88,Kinesthetic,Math Riddles
+6,Mathematics,Time,Videos,66,Audio Visual,Time Theory Exposition
+6,Mathematics,Positional Value,Games,55,Kinesthetic,Number Comparison Race
+6,Mathematics,Fractions,Videos,42,Audio Visual,Educational Video
+6,Mathematics,Multiplication,Games,73,Kinesthetic,Group Activities
+6,Mathematics,Time,Videos,52,Audio Visual,Time Conversion Tutorials
+6,Mathematics,Time,Art,54,Kinesthetic,Temporal Art Gallery
+6,Mathematics,Circles,Technology,83,Digital,Interactive Software
+6,Mathematics,Division,Music,43,Audio Visual,Online Tutorials
+6,Mathematics,Positional Value,Art,82,Visual,Number Origami
+6,Mathematics,Positional Value,Games,75,Visual,Math Board Game
+6,Mathematics,Fractions,Games,51,Kinesthetic,Escape Room Challenge
+6,Mathematics,Fractions,Videos,45,Audio Visual,Educational Video
+6,Mathematics,Time,Games,30,Visual,Time Unit Matching Game
+6,Mathematics,Fractions,Videos,58,Audio Visual,Fraction Animation
+6,Mathematics,Time,Videos,70,Audio Visual,Time Theory Exposition
+6,Mathematics,Circles,Travelling,73,Kinesthetic,Math Trail
+6,Mathematics,Time,Art,45,Visual,Time Unit Sculptures
+6,Mathematics,Time,Games,71,Kinesthetic,Time Unit Obstacle Course
+6,Mathematics,Time,Art,44,Visual,Time Unit Sculptures
+6,Mathematics,Time,Art,67,Visual,Temporal Canvas Artwork
+6,Mathematics,Positional Value,Technology,86,Digital,Interactive Smartboard Games
+6,Mathematics,Time,Art,32,Visual,Time Unit Collage
+6,Mathematics,Time,Games,48,Kinesthetic,Time Difference Board Game
+6,Mathematics,Subtraction,Games,36,Kinesthetic,Manipulatives
+6,Mathematics,Circles,Art,78,Visual,Geometric Origami
+6,Mathematics,Fractions,Games,45,Kinesthetic,Fraction Hopscotch
+6,Mathematics,Subtraction,Games,38,Kinesthetic,Manipulatives
+6,Mathematics,Circles,Art,55,Visual,Pattern Creation
+6,Mathematics,Time,Games,53,Kinesthetic,Time Unit Relay Race
+6,Mathematics,Circles,Technology,82,Digital,Interactive Software
+6,Mathematics,Time,Games,43,Kinesthetic,Time Conversion Bingo
+6,Mathematics,Time,Games,51,Kinesthetic,Time Unit Relay Race
+6,Mathematics,Positional Value,Videos,55,Audio Visual,Explainer Video
+6,Mathematics,Subtraction,Art,61,Visual,Posters
+6,Mathematics,Positional Value,Travelling,57,Kinesthetic,Number Line Walk
+6,Mathematics,Addition,Videos,72,Audio Visual,Interactive Tutorial
+6,Mathematics,Time,Games,82,Visual,Time Unit Puzzles
+6,Mathematics,Subtraction,Videos,46,Audio Visual,Math Explorations
+6,Mathematics,Time,Art,39,Visual,Time Unit Posters
+6,Mathematics,Subtraction,Games,37,Kinesthetic,Manipulatives
+6,Mathematics,Division,Games,94,Kinesthetic,Division Relay
+6,Mathematics,Fractions,Videos,51,Visual,Fraction Comparison Charts
+6,Mathematics,Time,Games,67,Kinesthetic,Time Trial Physical Challenge
+6,Mathematics,Fractions,Games,58,Kinesthetic,Fraction Towers
+6,Mathematics,Time,Games,42,Kinesthetic,Time Conversion Bingo
+6,Mathematics,Time,Games,59,Kinesthetic,Historical Events Board Game
+6,Mathematics,Time,Art,70,Kinesthetic,Time Sculpture Symposium
+6,Mathematics,Subtraction,Games,36,Kinesthetic,Manipulatives
+6,Mathematics,Circles,Videos,85,Audio Visual,Math Video
+6,Mathematics,Addition,Games,53,Visual,Whiteboard
+6,Mathematics,Time,Games,37,Kinesthetic,Time Measurement Activity
+6,Mathematics,Time,Technology,53,Kinesthetic,Time Unit Stopwatch Challenge
+6,Mathematics,Circles,Art,88,Visual,Geometry Poster
+6,Mathematics,Time,Videos,63,Audio Visual,Time Explorations Series
+6,Mathematics,Fractions,Videos,40,Audio Visual,Educational Video
+6,Mathematics,Circles,Videos,71,Audio Visual,Explainer Video
+6,Mathematics,Time,Art,66,Visual,Temporal Canvas Artwork
+6,Mathematics,Fractions,Art,59,Visual,Fraction Mosaic
+6,Mathematics,Positional Value,Travelling,60,Kinesthetic,Number Line Walk
+6,Mathematics,Fractions,Videos,59,Audio Visual,Fraction Animation
+6,Mathematics,Division,Games,72,Kinesthetic,Math Game
+6,Mathematics,Fractions,Art,49,Kinesthetic,Collaborative Art
+6,Mathematics,Fractions,Videos,76,Visual,Visual Puzzles
+6,Mathematics,Circles,Videos,72,Audio Visual,Explainer Video
+6,Mathematics,Fractions,Videos,52,Visual,Fraction Comparison Charts
+6,Mathematics,Fractions,Art,39,Visual,Whiteboard Drawing
+6,Mathematics,Fractions,Videos,78,Visual,Visual Puzzles
+6,Mathematics,Positional Value,Games,34,Kinesthetic,Human Place Value Chart
+6,Mathematics,Fractions,Games,70,Kinesthetic,Fraction Board Game
+6,Mathematics,Time,Games,62,Kinesthetic,Temporal Role Playing Game 
+6,Mathematics,Circles,Games,70,Visual,Geometric Shapes Kit
+6,Mathematics,Multiplication,Science,49,Audio,Podcast
+6,Mathematics,Subtraction,Games,40,Kinesthetic,Manipulatives
+6,Mathematics,Positional Value,Art,75,Visual,Number Dioramas
+6,Mathematics,Addition,Games,51,Visual,Whiteboard
+6,Mathematics,Fractions,Games,72,Digital,Online Quiz
+6,Mathematics,Fractions,Games,60,Kinesthetic,Fraction Towers
+6,Mathematics,Circles,Travelling,70,Kinesthetic,Math Trail
+6,Mathematics,Circles,Games,75,Visual,Geometric Shapes Kit
+6,Mathematics,Fractions,Videos,57,Audio Visual,Fraction Animation
+6,Mathematics,Positional Value,Games,42,Audio Visual,Number Sorting Activity
+6,Mathematics,Time,Videos,51,Audio Visual,Time Conversion Tutorials
+6,Mathematics,Positional Value,Art,50,Visual,Place Value Art Project
+6,Mathematics,Time,Art,73,Kinesthetic,Time Sculpture Symposium
+6,Mathematics,Positional Value,Videos,77,Audio Visual,Math Visualization
+6,Mathematics,Positional Value,Art,60,Visual,Number Sculptures
+6,Mathematics,Positional Value,Videos,75,Audio Visual,Math Visualization
+6,Mathematics,Time,Travelling,63,Kinesthetic,Time Zone Exploration Adventure
+6,Mathematics,Time,Games,47,Kinesthetic,Time Difference Board Game
+6,Mathematics,Circles,Travelling,78,Audio Visual,Outdoor Activity
+6,Mathematics,Multiplication,Games,72,Kinesthetic,Group Activities
+6,Mathematics,Time,Technology,88,Digital,Time Journey VR Experience
+6,Mathematics,Subtraction,Art,68,Visual,Posters
+6,Mathematics,Positional Value,Videos,60,Audio Visual,Math Animation
+6,Mathematics,Subtraction,Videos,44,Audio Visual,Explainer Video
+6,Mathematics,Positional Value,Art,55,Visual,Number Sculptures
+6,Mathematics,Fractions,Videos,36,Visual,Visual Manipulatives
+6,Mathematics,Subtraction,Art,67,Visual,Posters
+6,Mathematics,Circles,Games,50,Visual,Math Board Game
+6,Mathematics,Circles,Games,45,Kinesthetic,Relay Race
+6,Mathematics,Fractions,Videos,72,Audio Visual,Fraction Cinematic Experience
+6,Mathematics,Positional Value,Games,86,Kinesthetic,Math Riddles
+6,Mathematics,Division,Music,45,Audio Visual,Online Tutorials
+6,Mathematics,Fractions,Videos,41,Audio Visual,Educational Video
+6,Mathematics,Time,Videos,56,Audio Visual,Time Concepts Animation
+6,Mathematics,Time,Games,83,Visual,Time Unit Puzzles
+6,Mathematics,Subtraction,Videos,45,Audio Visual,Math Explorations
+6,Mathematics,Time,Art,42,Visual,Time Unit Sculptures
+6,Mathematics,Fractions,Art,51,Visual,Fraction Collage
+6,Mathematics,Division,Art,87,Visual,DIY Posters
+6,Mathematics,Circles,Art,82,Kinesthetic,Circle Construction
+6,Mathematics,Time,Music,61,Audio,Time Songs
+6,Mathematics,Circles,Videos,68,Audio Visual,Real-life Examples
+6,Mathematics,Circles,Games,81,Visual,Puzzles
+6,Mathematics,Time,Technology,87,Digital,Time Journey VR Experience
+6,Mathematics,Circles,Art,58,Visual,Pattern Creation
+6,Mathematics,Circles,Travelling,74,Kinesthetic,Math Trail
+6,Mathematics,Circles,Art,31,Visual,Circle Collage
+6,Mathematics,Time,Art,30,Visual,Time Unit Collage
+6,Mathematics,Positional Value,Games,38,Kinesthetic,Number Hunt
+6,Mathematics,Positional Value,Games,64,Visual,Place Value Bingo
+6,Mathematics,Positional Value,Art,31,Visual,Digit Collage
+6,Mathematics,Circles,Games,46,Visual,Math Board Game
+6,Mathematics,Time,Art,34,Visual,Time Unit Collage
+6,Mathematics,Circles,Games,52,Kinesthetic,Memory Game
+6,Mathematics,Time,Art,59,Visual,Time Unit Diorama
+6,Mathematics,Time,Games,63,Kinesthetic,Temporal Role Playing Game 
+6,Mathematics,Circles,Art,87,Visual,Geometry Poster
+6,Mathematics,Positional Value,Art,32,Visual,Digit Collage
+6,Mathematics,Circles,Technology,80,Digital,Interactive Software
+6,Mathematics,Positional Value,Art,38,Visual,Number Collage
+6,Mathematics,Circles,Art,70,Visual,Art Project
+6,Mathematics,Circles,Videos,80,Audio Visual,Math Video
+6,Mathematics,Positional Value,Technology,85,Digital,Interactive Smartboard Games
+6,Mathematics,Circles,Art,80,Kinesthetic,Circle Construction
+6,Mathematics,Multiplication,Art,55,Visual,Math Models
+6,Mathematics,Fractions,Art,31,Audio Visual,Fraction Drawings
+6,Mathematics,Multiplication,Science,51,Audio,Podcast
+6,Mathematics,Positional Value,Games,80,Visual,Math Board Game
+6,Mathematics,Addition,Videos,51,Audio Visual,Math Video
+6,Mathematics,Circles,Technology,87,Digital,Online Quizzes
+6,Mathematics,Time,Art,69,Visual,Temporal Canvas Artwork
+6,Mathematics,Fractions,Videos,79,Visual,Visual Puzzles
+6,Mathematics,Time,Games,73,Kinesthetic,Time Unit Obstacle Course
+6,Mathematics,Fractions,Games,74,Digital,Online Quiz
+6,Mathematics,Circles,Art,63,Visual,Design Mandalas
+6,Mathematics,Positional Value,Art,36,Visual,Number Collage
+6,Mathematics,Addition,Games,40,Visual,Flashcards

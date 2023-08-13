@@ -2,8 +2,8 @@ import numpy as np
 import pandas as pd
 
 dataset = pd.read_csv('../data/data-6-model.csv')
-X = dataset.iloc[:, :-3].values
-y = dataset.iloc[:, -3].values
+X = dataset.iloc[:, :-1].values
+y = dataset.iloc[:, -1].values
 print(X[0])
 print(y[0])
 dataset.head()
@@ -24,8 +24,8 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, rando
 
 from sklearn.preprocessing import StandardScaler
 sc = StandardScaler()
-X_train[:, 20:] = sc.fit_transform(X_train[:, 20:])
-X_test[:, 20:] = sc.transform(X_test[:, 20:])
+X_train[:, 22:] = sc.fit_transform(X_train[:, 22:])
+X_test[:, 22:] = sc.transform(X_test[:, 22:])
 print(X_train[0])
 
 from sklearn.ensemble import RandomForestClassifier

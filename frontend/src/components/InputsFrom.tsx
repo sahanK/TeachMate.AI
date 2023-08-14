@@ -1,8 +1,7 @@
-'use client'
-
-import { useState } from 'react';
+import { Dispatch, SetStateAction, useState } from 'react';
 import FormComboBox from './FormComboBox';
 import { PlusCircleIcon, CheckCircleIcon, MinusCircleIcon } from '@heroicons/react/24/outline'
+import BeatLoader from "react-spinners/BeatLoader";
 
 const subjects: FormComboBoxItem[] = [
   { name: 'Mathematics', value: 'mathematics' },
@@ -29,7 +28,12 @@ const classInterests: FormComboBoxItem[] = [
   { name: 'Technology', value: 'Technology' },
 ];
 
-const InputsForm: React.FC = () => {
+type InputsFormProps = {
+  isLessonPlanVisible: boolean;
+  setIsLessonPlanVisible: Dispatch<SetStateAction<boolean>>
+};
+
+const InputsForm: React.FC<InputsFormProps> = ({ isLessonPlanVisible, setIsLessonPlanVisible }) => {
   const [selectedGrade, setSelctedGrade] = useState<FormComboBoxItem>(grades[0]);
   const [selectedSubject, setSelectedSubject] = useState<FormComboBoxItem>(subjects[0]);
   const [selectedLesson, setSelectedLesson] = useState<FormComboBoxItem>(lessons[0]);
@@ -37,8 +41,7 @@ const InputsForm: React.FC = () => {
   const [teachingObjectives, setTeachingObjectives] = useState<string[]>([]);
   const [teachingOjectiveInputValue, setTeachingObjectiveInputValue] = useState<string>('');
   const [lessonAvgMarkInputValue, setLessonAvgMarkInputValue] = useState<string>();
-
-  console.log(selectedSubject);
+  const [isLoading, setIsLoading] = useState<boolean>(false);
 
   const onPlusButtonClick = () => {
     if (teachingOjectiveInputValue !== '') {
@@ -127,8 +130,23 @@ const InputsForm: React.FC = () => {
           The generated lesson plan will seamlessly integrate these resources, empowering you to deliver an engaging and effective educational experience.
         </p>
         <div className='flex-1 flex justify-end'>
-          <button className='w-[400px] h-[50px] bg-amber-400 text-white hover:bg-amber-500 rounded-xl focus:border-amber-800'>
-            FIND
+          <button
+            className='w-[400px] h-[50px] justify-center items-center bg-amber-400 text-white hover:bg-amber-500 rounded-xl focus:border-amber-800'
+            onClick={(event) => {
+              event.preventDefault();
+              setIsLoading(true);
+              setTimeout(() => {
+                setIsLoading(false)
+                setIsLessonPlanVisible(true);
+              }, 3000);
+            }}
+          >
+            <BeatLoader
+              color={'black'}
+              loading={isLoading}
+              size={15}
+            />
+            { !isLoading && 'FIND'}
           </button>
         </div>
       </div>

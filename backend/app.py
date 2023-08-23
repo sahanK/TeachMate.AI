@@ -4,6 +4,7 @@ import openai
 import constants
 from dotenv import load_dotenv
 import os
+from flask_cors import cross_origin
 
 load_dotenv()
 
@@ -34,6 +35,7 @@ app = Flask(__name__)
 openai.api_key = openai_api_key
 
 @app.route('/predict', methods=['POST'])
+@cross_origin()
 def hello_world():
     try:
         grade = request.json['grade']

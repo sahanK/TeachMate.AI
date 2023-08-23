@@ -161,8 +161,8 @@ const InputsForm: React.FC<InputsFormProps> = ({ isLessonPlanVisible, setIsLesso
       </div>
       <div className='flex flex-row'>
         <p className='flex-1 text-[12px] text-gray-500'>
-          This will initiate a dynamic process where our advanced AI algorithms analyze your students' characteristics and learning needs.
-          It will curate a tailored selection of optimal teaching aids, carefully chosen to enhance your lesson's impact.
+          This will initiate a dynamic process where our advanced AI algorithms analyze your students&apos; characteristics and learning needs.
+          It will curate a tailored selection of optimal teaching aids, carefully chosen to enhance your lesson&apos;s impact.
           The generated lesson plan will seamlessly integrate these resources, empowering you to deliver an engaging and effective educational experience.
         </p>
         <div className='flex-1 flex justify-end'>

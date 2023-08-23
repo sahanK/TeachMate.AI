@@ -11,13 +11,13 @@ const useLocalStorage = (key: string) => {
         setData(storageObject);
       }
     }
-  }, []);
+  }, [key]);
 
   useEffect(() => {
     if (data && window) {
       window.localStorage.setItem(key, JSON.stringify(data));
     }
-  }, [data]);
+  }, [data, key]);
 
   return { data, setData }
 };

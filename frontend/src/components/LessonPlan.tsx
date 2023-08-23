@@ -20,7 +20,7 @@ const LessonPlan: React.FC<LessonPlanProps> = ({ isLessonPlanVisible, setIsLesso
       return getLessonPlanSections(currentLessonPlan.lessonPlan);
     }
     return [[]];
-  }, []);
+  }, [currentLessonPlan]);
 
   const onSaveClick = () => {
     if (currentLessonPlan) {
@@ -37,14 +37,17 @@ const LessonPlan: React.FC<LessonPlanProps> = ({ isLessonPlanVisible, setIsLesso
   return (
     <div className="flex-1 flex-col">
       {
-        sections.map((section) => {
+        sections.map((section, sectionIndex) => {
           return (
-            <div className="flex flex-col my-[16px]">
+            <div className="flex flex-col my-[16px]" key={sectionIndex}>
               {
                 section.map((item, itemIndex) => {
                   if (item === 'Procedure:') {
                     return (
-                      <div className="flex flex-row items-center space-x-10 p-2 rounded-full border-2 border-gray-200">
+                      <div
+                        className="flex flex-row items-center space-x-10 p-2 rounded-full border-2 border-gray-200"
+                        key={itemIndex}
+                      >
                         <h2 className="text-[24px] font-bold border-2 border-amber-300 rounded-full p-2">{currentLessonPlan?.teachingAid}</h2>
                         <BookmarkIcon
                           className="teaching-aid-action"
@@ -62,9 +65,9 @@ const LessonPlan: React.FC<LessonPlanProps> = ({ isLessonPlanVisible, setIsLesso
                     )
                   }
                   if (itemIndex === 0) {
-                    return <h2 className="text-[16px] font-semibold">{item}</h2>
+                    return <h2 className="text-[16px] font-semibold" key={itemIndex}>{item}</h2>
                   }
-                  return <p className="text-[14px] text-gray-600">{item}</p>
+                  return <p className="text-[14px] text-gray-600" key={itemIndex}>{item}</p>
                 })
               }
             </div>

@@ -5,7 +5,7 @@ const Header: React.FC = () => {
       <p className="text-gray-600">
         Revolutionize your teaching approach using AI-generated aids!
         Craft engaging lessons with personalized teaching materials aligned
-        to your students' individual traits. Elevate education through innovation today.
+        to your students&apos; individual traits. Elevate education through innovation today.
       </p>
     </div>
   );

@@ -1,11 +1,15 @@
-import { Dispatch, SetStateAction, useState } from 'react';
+import { Dispatch, SetStateAction, useCallback, useState } from 'react';
 import FormComboBox from './FormComboBox';
 import { PlusCircleIcon, CheckCircleIcon, MinusCircleIcon } from '@heroicons/react/24/outline'
 import BeatLoader from "react-spinners/BeatLoader";
+import { useReduxDispatch } from '@/redux/hooks';
+import { setCurrentLessonPlan } from '@/redux/slices/currentLessonPlanSlice';
+import { getLessonPlan } from '@/service/api';
+import { validateLessonPlanInputs } from '@/utils/lessonPlan';
 
 const subjects: FormComboBoxItem[] = [
-  { name: 'Mathematics', value: 'mathematics' },
-  { name: 'Science', value: 'science' },
+  { name: 'Mathematics', value: 'Mathematics' },
+  { name: 'Science', value: 'Science' },
 ];
 
 const grades: FormComboBoxItem[] = [
@@ -34,6 +38,8 @@ type InputsFormProps = {
 };
 
 const InputsForm: React.FC<InputsFormProps> = ({ isLessonPlanVisible, setIsLessonPlanVisible }) => {
+  const dispatch = useReduxDispatch();
+
   const [selectedGrade, setSelctedGrade] = useState<FormComboBoxItem>(grades[0]);
   const [selectedSubject, setSelectedSubject] = useState<FormComboBoxItem>(subjects[0]);
   const [selectedLesson, setSelectedLesson] = useState<FormComboBoxItem>(lessons[0]);
@@ -58,6 +64,36 @@ const InputsForm: React.FC<InputsFormProps> = ({ isLessonPlanVisible, setIsLesso
       prevValue.filter((value) => value !== selectedObjective)
     );
   };
+
+  const onFindButtonClick = async (event: any) => {
+    event.preventDefault();
+    try {
+      setIsLoading(true);
+      const newTeachingAid: LessonPlan = {
+        grade: Number(selectedGrade.value),
+        subject: selectedSubject.value,
+        lesson: selectedLesson.value,
+        classInterest: selectedClassInterest.value,
+        lessonAverageMark: Number(lessonAvgMarkInputValue),
+        teachingObjectives: teachingObjectives,
+      };
+
+      validateLessonPlanInputs(newTeachingAid);
+
+      const response = await getLessonPlan(newTeachingAid);
+      dispatch(setCurrentLessonPlan({
+        ...newTeachingAid,
+        teachingAid: response.teaching_aid,
+        teachingAidCategory: response.teaching_aid_category,
+        lessonPlan: response.lesson_plan.choices[0].message.content,
+      }));
+      setIsLoading(false);
+      setIsLessonPlanVisible(true);
+    } catch (error: any) {
+      setIsLoading(false);
+      alert(error.message);
+    }
+  };
   
   return (
     <form className='flex flex-1 flex-col space-y-[16px] justify-between mt-[20px]'>
@@ -79,8 +115,8 @@ const InputsForm: React.FC<InputsFormProps> = ({ isLessonPlanVisible, setIsLesso
         <h3 className='text-gray-400 mb-[8px] text-[12px]'>Teaching objectives</h3>
         {teachingObjectives.length > 0 && (
           <ul>
-            {teachingObjectives.map(objective => (
-              <li className='flex flex-row items-center space-x-2'>
+            {teachingObjectives.map((objective, index) => (
+              <li className='flex flex-row items-center space-x-2' key={index}>
                 <CheckCircleIcon className='h-5 w-5 text-amber-300' />
                 <p className='font-medium text-gray-800 text-[14px]'>{objective}</p>
                 <MinusCircleIcon
@@ -131,22 +167,19 @@ const InputsForm: React.FC<InputsFormProps> = ({ isLessonPlanVisible, setIsLesso
         </p>
         <div className='flex-1 flex justify-end'>
           <button
-            className='w-[400px] h-[50px] justify-center items-center bg-amber-400 text-white hover:bg-amber-500 rounded-xl focus:border-amber-800'
-            onClick={(event) => {
-              event.preventDefault();
-              setIsLoading(true);
-              setTimeout(() => {
-                setIsLoading(false)
-                setIsLessonPlanVisible(true);
-              }, 3000);
-            }}
+            className='w-[400px] h-[50px] flex flex-col justify-center items-center bg-amber-400 text-white hover:bg-amber-500 rounded-xl focus:border-amber-800'
+            onClick={onFindButtonClick}
+            disabled={isLoading}
           >
-            <BeatLoader
-              color={'black'}
-              loading={isLoading}
-              size={15}
-            />
-            { !isLoading && 'FIND'}
+            {isLoading ? (
+              <BeatLoader
+                color={'white'}
+                loading={isLoading}
+                size={15}
+              />
+            ) : (
+              <span>FIND</span>
+            )}
           </button>
         </div>
       </div>

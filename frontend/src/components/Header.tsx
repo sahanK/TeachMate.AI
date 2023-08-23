@@ -1,6 +1,6 @@
 const Header: React.FC = () => {
   return (
-    <div className="flex flex-col w-full">
+    <div className="flex flex-col w-full mb-[20px]">
       <h1 className="font-bold text-gray-800 text-[36px]">TeachMate.AI</h1>
       <p className="text-gray-600">
         Revolutionize your teaching approach using AI-generated aids!

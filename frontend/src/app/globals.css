@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .teaching-aid-action {
+    @apply h-8 w-8 rounded-full p-[5px] border-2 border-amber-400 hover:bg-amber-400
+    hover:scale-125 hover:transition hover:duration-300 hover:text-white active:scale-150;
+  }
+}

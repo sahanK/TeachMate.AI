@@ -58,14 +58,14 @@ const LessonPlan: React.FC = () => {
                             className="teaching-aid-action"
                             onClick={onSaveClick}
                           />
-                          <ShareIcon
+                          {/* <ShareIcon
                             className="teaching-aid-action"
                             onClick={() => {}}
                           />
                           <DocumentIcon
                             className="teaching-aid-action"
                             onClick={() => {}}
-                          />
+                          /> */}
                         </div>
                       )
                     }

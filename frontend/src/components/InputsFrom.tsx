@@ -1,4 +1,5 @@
-import { Dispatch, SetStateAction, useCallback, useState } from 'react';
+import { useState } from 'react';
+import { useRouter } from 'next/navigation';
 import FormComboBox from './FormComboBox';
 import { PlusCircleIcon, CheckCircleIcon, MinusCircleIcon } from '@heroicons/react/24/outline'
 import BeatLoader from "react-spinners/BeatLoader";
@@ -9,36 +10,38 @@ import { validateLessonPlanInputs } from '@/utils/lessonPlan';
 
 const subjects: FormComboBoxItem[] = [
   { name: 'Mathematics', value: 'Mathematics' },
-  { name: 'Science', value: 'Science' },
+  // { name: 'Science', value: 'Science' },
 ];
 
 const grades: FormComboBoxItem[] = [
   { name: '6th Grade', value: '6' },
-  { name: '7th Grade', value: '7' },
+  // { name: '7th Grade', value: '7' },
 ];
 
 const lessons: FormComboBoxItem[] = [
+  { name: 'Addition', value: 'Addition' },
   { name: 'Circles', value: 'Circles' },
+  { name: 'Division', value: 'Division' },
+  { name: 'Fractions', value: 'Fractions' },
+  { name: 'Multiplication', value: 'Multiplication' },
   { name: 'Positional Value', value: 'Positional Value' },
+  { name: 'Subtraction', value: 'Subtraction' },
+  { name: 'Time', value: 'Time' },
 ];
 
 const classInterests: FormComboBoxItem[] = [
+  { name: 'Art', value: 'Art' },
   { name: 'Games', value: 'Games' },
-  { name: 'Videos', value: 'Videos' },
-  { name: 'Art', value: 'Videos' },
-  { name: 'Science', value: 'Videos' },
   { name: 'Music', value: 'Music' },
-  { name: 'Travelling', value: 'Travelling' },
+  { name: 'Science', value: 'Science' },
   { name: 'Technology', value: 'Technology' },
+  { name: 'Travelling', value: 'Travelling' },
+  { name: 'Videos', value: 'Videos' },
 ];
 
-type InputsFormProps = {
-  isLessonPlanVisible: boolean;
-  setIsLessonPlanVisible: Dispatch<SetStateAction<boolean>>
-};
-
-const InputsForm: React.FC<InputsFormProps> = ({ isLessonPlanVisible, setIsLessonPlanVisible }) => {
+const InputsForm: React.FC = () => {
   const dispatch = useReduxDispatch();
+  const router = useRouter();
 
   const [selectedGrade, setSelctedGrade] = useState<FormComboBoxItem>(grades[0]);
   const [selectedSubject, setSelectedSubject] = useState<FormComboBoxItem>(subjects[0]);
@@ -88,7 +91,7 @@ const InputsForm: React.FC<InputsFormProps> = ({ isLessonPlanVisible, setIsLesso
         lessonPlan: response.lesson_plan.choices[0].message.content,
       }));
       setIsLoading(false);
-      setIsLessonPlanVisible(true);
+      router.push('/lesson-plan');
     } catch (error: any) {
       setIsLoading(false);
       alert(error.message);
